@@ -1,0 +1,832 @@
+example_id,conversation_root,message_count,conversation,support_type,intent,escalation,notes
+1,390529,4,"1. @123552 Our Maintenance team is working hard to prepare for departure, Matthew. We'll have you airborne very soon!
+2. @AmericanAir @AmericanAir pilot just announced “its a busy day @129841 and mechanic is on his way” guess 10:50 am departure won’t hold?
+3. @123552 Safety is our top priority, so we'll continue pushing it back until it's safe to fly. Updates will be made here: https://t.co/hSJ3SkyGEd
+4. @AmericanAir Andy update on 1622 ORD-SFO @129841",SUPPORT,Flight Disruption,AUTO_HANDLE,Specific support issue that can reasonably be handled with standard information.
+2,364922,2,"1. @202440 It certainly is a great day for flying and those views are stunning!
+2. The Bighorn Mountains with just a little haze. #americanview @americanair https://t.co/am6nOmPefg https://t.co/imqkfiIB5I",NON_SUPPORT,NON_SUPPORT,AUTO_HANDLE,"Social, praise, casual interaction, or no concrete support request."
+3,496251,2,"1. @214516 Congratulations on reaching that #milestone and we have some #virtuallybubbly here for you! Thanks for your loyalty, Jennifer.
+2. Yesterday I hit @americanair Executive Platinum. Naturally I was sitting in coach at the time. There was no Champagne involved.",NON_SUPPORT,NON_SUPPORT,AUTO_HANDLE,"Social, praise, casual interaction, or no concrete support request."
+4,30664,3,"1. @122751 Our apologies things aren't going as seamless as we planned. We'll have you where you need to be as quickly as we can.
+2. @AmericanAir I'm just thankful I had no connections as others on our flight had issues. Phew!
+3. Flight got delayed. Plane issues, got us new plane. But downgraded. No more TV. Thanks @AmericanAir 👎 #SadFace",SUPPORT,Flight Disruption,AUTO_HANDLE,Specific support issue that can reasonably be handled with standard information.
+5,201742,3,"1. @163653 What happened during your flight? Please DM details so we can forward it on to Flight Service.
+2. @AmericanAir I'll do that
+3. .@AmericanAir really really nasty first class flight attendant today on aa1685. Can't imagine how she got the job.",SUPPORT,Other / General Support,ESCALATE,Support issue likely requires case-specific or human handling.
+6,298117,3,"1. @187019 We offer free drinks and pretzels or Biscoff cookies in flight. Our sincere apologies for the delay.
+2. @AmericanAir @delta brings you snacks at the gate if a flight is delayed. It beings a smile to my face.
+3. @AmericanAir why is my flight always delayed? And where are my free snacks? @Delta would have hooked us up. https://t.co/cwR30DHGWg",SUPPORT,Flight Disruption,AUTO_HANDLE,Specific support issue that can reasonably be handled with standard information.
+7,517837,2,"1. @239417 Thanks for hanging in there with us. We're glad to see you've departed the gate and we'll have you #wheelsup soon.
+2. 🖕🏻🖕🏻🖕🏻🖕🏻@AmericanAir   and your repetitive hour plus late departures and pissed off pilots",SUPPORT,Flight Disruption,AUTO_HANDLE,Specific support issue that can reasonably be handled with standard information.
+8,328156,6,"1. @176423 It's always an absolute pleasure flying with you and we love seeing you up front! Until next time.
+2. @AmericanAir And as we were about to take off a delay!!! Did I jink this????
+3. @176423 Oh no! Our team will be sure to get everything sorted and we'll have you wheels-up very soon.
+4. @AmericanAir Back on track!!! Taking off! Wheeeeee! (Am I boring y'all yet!)
+5. @176423 Yay! And of course not, your positivity is always appreciated.
+6. Flawless flight on @AmericanAir! Thank you for upgrade on 5023. Great crew on both... 5433, too! &amp; @194233 greatest travel agent EVER!",SUPPORT,Seats & Upgrades,AUTO_HANDLE,Specific support issue that can reasonably be handled with standard information.
+9,497892,6,"1. @233833 Our goal is for you to always have a great experience on board and we appreciate your loyalty, Bill.
+2. @AmericanAir @233833 That’s it?
+3. @AmericanAir Great automated response. #customerserviceisdead
+4. @233833 We know upgrades are a desired benefit for our elites. Our team does all possible to upgrade as many as we can when space is available.
+5. @AmericanAir For the crew?  I should know better...
+6. I’m really not “Mr First Class”. But i travel a great deal, exclusively with @AmericanAir since your rule changes upgrades have disappeared.  Its interesting to find crew sitting in first class.  54 segments this year. And too many unsatisfactory experiences.",SUPPORT,Seats & Upgrades,ESCALATE,Support issue likely requires case-specific or human handling.
+10,502764,2,"1. @235133 We're in the process of modernizing our fleet. We appreciate your feedback on how we can improve your experience!
+2. Rarely travel on @AmericanAir &amp; now remember why. Strike 1) No blanket/pillow in coach (@Delta ✔️) Strike 2) No individual screens (@delta ✔️) Strike 3) No charging jacks (@Delta✔️).  SD-MIA is gonna be a long flight! 😭✈️",SUPPORT,Onboard Services,AUTO_HANDLE,Specific support issue that can reasonably be handled with standard information.
+11,463639,2,"1. @225230 That's not what we like to hear. We hope you'll reconsider.
+2. @AmericanAir  I will never fly with you again.",NON_SUPPORT,NON_SUPPORT,AUTO_HANDLE,"Social, praise, casual interaction, or no concrete support request."
+12,96063,8,"1. @136930 If you pull up that link, it does say that elite and eligible Citibank customers are exempt.
+2. @AmericanAir Great thank you for confirming.
+Does that apply to companions as well?
+3. @136930 It applies to 4 companions in the same reservation traveling within the 50 US, Canada, Puerto Rico and https://t.co/1iva8gJ6HM Islands.
+4. @AmericanAir Thank you.
+So I guess the only difference then is the seat assignment (and .5 miles)?
+5. @136930 Correct. Please make sure you take a look at the link provided. We want you to know of all restrictions under Basic Economy.
+6. @AmericanAir Thanks.
+Are there any exceptions for AA Credit Card holder?
+Do you still get free checked bags?
+7. @AmericanAir When flying Basic Economy with the AA CC do I still get free bags and carry-ons? Just for me of for companions as well?
+Thanks.
+8. @136930 When you're on a Basic Economy ticket, you're only allowed one small carry-on that fits under the seat. Look here: https://t.co/MKvFFVWJdz",SUPPORT,Baggage,AUTO_HANDLE,Specific support issue that can reasonably be handled with standard information.
+13,308703,12,"1. @189711 We appreciate your honest feedback and we'll pass your comments on to our team. We're always looking for ways to improve.
+2. @AmericanAir @189711 Time to take the decision making out of their hand and limit pricing and fees like we did in the 70's. Spur travel again.
+#RegulateAir
+3. @170351 @AmericanAir I would argue price caps and fed interference is why a flying in the US is utter shit now.  Baby boomers ruined everything good.
+4. @189711 @AmericanAir Did you know in the 70's airlines couldn't charge you cancellation fees, baggage fees and deregulation brought us this expensive service
+5. @170351 @AmericanAir Cancellation fees seem readonable, baggage fees = union labor costs, and airlines are probably the most regulated businesses.
+6. @AmericanAir Just off the top of my head. For more ideas, my consulting fees are free travel vouchers.
+7. @AmericanAir Oh, and if you could lobby the FAA to cut the regulatory burden for airlines in half to spur competition and break up your monopoly
+8. @AmericanAir Some sort of empathy training for CSRs, outlets that work in terminals, ability to book flights on other airlines if flight status changes..
+9. @AmericanAir Stop shrinking leg room, put the door closure time on tickets, not departure time with a 10 minute ""eff you"" period...
+10. @AmericanAir Oh my, so so much. Push notifications when gates change, email ir text updates on plane status, staff that speak well...
+11. @189711 That's not what we like to hear. How can we help, Ron?
+12. Dear @AmericanAir your service is garbage, your app sucks, and your employees are intentionally unhelpful. Please go out of business. Thx",SUPPORT,Other / General Support,ESCALATE,Support issue likely requires case-specific or human handling.
+14,466935,2,"1. @226137 Flight 989 has backed out from the gate and will be wheels up soon!
+2. @AmericanAir Flight 989 MIA-MVD is a bad joke from you AA. Delayed almost everyday, cancelled at least once a month!",SUPPORT,Flight Disruption,AUTO_HANDLE,Specific support issue that can reasonably be handled with standard information.
+15,181938,6,"1. @158760 We're very sorry for the wait. We want to get you on your way as soon as possible.
+2. @AmericanAir 🤥
+3. @AmericanAir Now we’re all sitting at LAX waiting for our gate. It’s been almost an hour. 5hr trip turned into a 10+.
+4. @AmericanAir 🤦🏻‍♂️
+5. @158760 We'll do all possible to make up most of the lost time while we're in the air. Thanks for your patience, Myles
+6. I really hope @AmericanAir will comp the passengers on flight AA 275 from MIA to LAX for a delay on cargo’s fault. #delay",SUPPORT,Flight Disruption,ESCALATE,Support issue likely requires case-specific or human handling.
+16,340262,17,"1. @197263 We don't have rental car assistance here. We're sorry to hear of your frustration with the accommodations provided.
+2. @AmericanAir Now because “it was weather related” I did not receive a hotel voucher.
+3. @197263 When delays are out of our control, we're not able to provide hotels. Please DM your record locator if you need rebooking.
+4. @AmericanAir I recognize that weather delays are out of your control but giving up my seat because “I wasn’t supposed to make it” is in your control.
+5. @AmericanAir I did make it on time, just to be informed that my seat had already been reassigned because “Mr. Raley you weren’t supposed to make it.”
+6. @AmericanAir And no I do not want to DM you about it. I will call customer services and do whatever it takes to get a reimbursement for the hotel...
+7. @AmericanAir I had to pay for our of pocket last night due to this entire issue.
+8. @197263 Our apologies, it’s not always operationally possible to hold flights. Our team will have you to your destination as soon as possible.
+9. @AmericanAir The flight didnt need to be held. My seat did, the “department in control” of changing flights switched my flight without giving me a chance
+10. @197263 We know it's frustrating to miss your flight. To ensure an on time departure our gate team can give seats to those waiting 15 minutes before
+11. @AmericanAir That’s weird because last night everyone was telling me 10 minutes. Maybe everyone needs a refresher on the rules. I made the flight...
+12. @AmericanAir Still had no seat, it had been given away because “I wasn’t supposed to make it.” There needs 2 b a policy change because some can “make it”
+13. @197263 Seats can be reassigned 15 minutes before. Our gate agents must have all customers in their seats 10 minutes before so doors are closed.
+14. @AmericanAir Frustrated that I ran through the airport go 2 the gate n time 2 find out my seat had been given away because “I wasn’t supposed 2 make it”
+15. @AmericanAir @197263 First off #AAteam the word you're looking for is ""Sorry""
+Second, this is AA tactic, take your cash then sell your seat, double money.
+16. @AmericanAir @197263 You don't get kickbacks from rentals too? What kind of crooked business is this? You could be skimming so much more from customers.
+17. @AmericanAir I don’t understand why you’re willing to put me in a hotel tonight but not willing to get me a rental car. #worstever",SUPPORT,Seats & Upgrades,ESCALATE,Support issue likely requires case-specific or human handling.
+17,321824,2,"1. @192668 We want each day to have a great start. Feel free to speak with an attendant and they'll be happy to accommodate your request.
+2. @AmericanAir seriously the flight attendants on this flight won’t stop talking. Pilot legit came on at 530am and said bc it’s so early no announcements. Awesome. Attendants wouldn’t stop talking. People trying to sleep but to no avail. Can’t wait to go back to @Delta",SUPPORT,Other / General Support,AUTO_HANDLE,Specific support issue that can reasonably be handled with standard information.
+18,228043,3,"1. @170374 We're working on our carbon footprint. Check out the following with some great information. https://t.co/pLPtpavkpL
+2. @AmericanAir recycling a material which will last forever is a problem! #banplasticcups
+3. @AmericanAir @3894 all you beautiful airlines out there: PLEASE CUT YOUR PLASTIC BUDGET! give each person only 1 or ban it totally!",SUPPORT,Other / General Support,AUTO_HANDLE,Specific support issue that can reasonably be handled with standard information.
+19,224147,5,"1. @169560 Thanks for letting us know and have a wonderful trip!
+2. @AmericanAir Thanks for the reply!  The entire flight team has been amazing in this delay.
+3. @169560 Way to go Dawood! We'd love to share this with his managers. Please DM your record locator and we'll send it right over. #AATeam
+4. @AmericanAir @AmericanAir note this - keep this guy happy.  He was still helpful and smiling after dealing with some mouthy passengers.  So so sweet!
+5. @AmericanAir is my go-to airline every time.  Mr. Dawood in Chi helped me so much during a 5 hr delay - above and beyond!  EP for life!",NON_SUPPORT,NON_SUPPORT,AUTO_HANDLE,"Social, praise, casual interaction, or no concrete support request."
+20,497911,2,"1. @175631 We're sorry you didn't get your beverage. We'll notify our team about this.
+2. @AmericanAir Another day, another flight with no PDB",SUPPORT,Onboard Services,AUTO_HANDLE,Specific support issue that can reasonably be handled with standard information.
+21,299185,4,"1. @187317 Woohoo! We're excited!
+2. @AmericanAir Lol should have said 'see you AGAIN soon'. Good times today!
+3. @187317 We'll see you again soon! Have a fantastic afternoon.
+4. Great afternoon rocking the @AmericanAir employee appreciation party on behalf of @118818! See you soon AA! #DJ #DJEJ #DJlife",NON_SUPPORT,NON_SUPPORT,AUTO_HANDLE,"Social, praise, casual interaction, or no concrete support request."
+22,223227,2,"1. @169316 It appears to be a bit of condensation there, Jeremy. Ask our crew members for a possible seat change.
+2. @AmericanAir This is how they fixed it. #unacceptable Flight from Miami to GRU Brazil. https://t.co/RcNuHzVFcO",SUPPORT,Seats & Upgrades,AUTO_HANDLE,Specific support issue that can reasonably be handled with standard information.
+23,417327,4,"1. @214575 That's fantastic and we appreciate your positive feedback of our crew on board. #AATeam
+2. @AmericanAir Just touched down at JFK, crew on the flight were great!
+3. @214575 We've had a bit of bad weather and now there's Air Traffic Control delays. Days like today can be a bit of a challenge for all of us.
+4. @AmericanAir hey, we are sitting on the runway in RDU, departure scheduled for 5:10, still don't know when we are leaving &amp; it's 9:27 pm",SUPPORT,Flight Disruption,AUTO_HANDLE,Specific support issue that can reasonably be handled with standard information.
+24,272520,3,"1. @175631 We want to keep you connected up in the air. Please share your feedback with our friends @116462.
+2. @AmericanAir @116462 It's terrible ^
+3. @americanair It's like I'm back with 56k modem...why is the wifi so terrible on every flight? #cantevencheckemail #whatamipayingfor #gogo",SUPPORT,Onboard Services,AUTO_HANDLE,Specific support issue that can reasonably be handled with standard information.
+25,459179,2,"1. @224062 We value your feedback, Jay. We'll pass your comments to our team.
+2. Why would @AmericanAir waste money on reconfiguring narrow body planes that have IFE to not have IFE? Seems like an active approach to reduce passenger experience for no apparent reason besides consistency...",SUPPORT,Onboard Services,AUTO_HANDLE,Specific support issue that can reasonably be handled with standard information.
+26,267874,2,"1. @179873 We have some of the best crew in the business. We're sorry to hear that happened. Our apologies.
+2. @AmericanAir flight 2646 staff is extremely rude.",SUPPORT,Other / General Support,ESCALATE,Support issue likely requires case-specific or human handling.
+27,390539,3,"1. @208459 We see our Customer Relations team has been in contact with you and have reviewed your concerns.
+2. @AmericanAir Speaking to me via script  And blatantly telling me that my concerns are not important  or can be quantified.  lack of customer service.
+3. @AmericanAir I tried to be professional regarding my ordeal at LGA where I was screamed at and was rude to by your staff.",SUPPORT,Other / General Support,ESCALATE,Support issue likely requires case-specific or human handling.
+28,345521,2,"1. @198224 Aw, we're happy to give you and your little one a lift any time. We'll see you soon!
+2. @AmericanAir it was a bumpy ride, but thanks for helping us escape #HurricaneNate safely! https://t.co/WNsQUhvR7n",NON_SUPPORT,NON_SUPPORT,AUTO_HANDLE,"Social, praise, casual interaction, or no concrete support request."
+29,210659,4,"1. @165851 This was divided on the 30th at the airport, please meet us in DM so we may go over this with you further.
+2. @AmericanAir Not going to happen if you keep split our record.
+3. @165851 Since you're automatically upgraded, when you have a companion with you the reservation has to be split out. You can opt out of upgrading.
+4. @AmericanAir they say it can only be done at airport. This has been happening the last 2 months. Not happy. Who can fix this. atairport 2 l8",SUPPORT,Seats & Upgrades,ESCALATE,Support issue likely requires case-specific or human handling.
+30,456924,3,"1. @223474 We're working diligently to get all our customers to their destinations for the holidays. Our team is fully expecting our flights to operate
+2. @AmericanAir News outlets said it would be thousands of flights being cancelled. Just trying to understand if we will know more than a week prior.
+3. @AmericanAir when will I know if our flight is cancelled for Christmas?",SUPPORT,Flight Disruption,AUTO_HANDLE,Specific support issue that can reasonably be handled with standard information.
+31,464529,2,"1. @225459 We're glad to take a look. Please DM your record locator and details.
+2. @AmericanAir spent 2.5 hours on hold today and still I never spoke to anyone...halp?",SUPPORT,Other / General Support,ESCALATE,Support issue likely requires case-specific or human handling.
+32,475784,2,"1. @228106 Those are some good looking wings if we do say so ourselves! Thanks for the #AmericanView
+2. A very American #wingfriday today with @AmericanAir . #travel #avgeek #boeing737 https://t.co/DO5KQYbqGT",NON_SUPPORT,NON_SUPPORT,AUTO_HANDLE,"Social, praise, casual interaction, or no concrete support request."
+33,481255,2,"1. @229391 We can take a look at this, John. DM your record locator, date of birth and KTN number.
+2. Hey @AmericanAir why do you somehow lose my TSA precheck number during online check-in? Entered correctly days ahead. Confirmed it's in the ticket when checking in. Click to get passes; NO PRECHECK. Happens way too often. #fixit #please",SUPPORT,Check-in & Airport,ESCALATE,Support issue likely requires case-specific or human handling.
+34,370694,2,"1. @203790 We had such a wonderful time welcoming Adriana on board and it's our pleasure to be flying her to Disney!
+2. Adriana, a 6-yr-old with a kidney disease, was greeted by our friends at @60022 &amp; @AmericanAir when she wished to go to Disney. ✨ https://t.co/gnbqmz6Qum",NON_SUPPORT,NON_SUPPORT,AUTO_HANDLE,"Social, praise, casual interaction, or no concrete support request."
+35,407198,4,"1. @178563 We have your DM and we'll answer you there, Leigh.
+2. @AmericanAir The email I received was cold and told me that no further research would be done. @Delta has never treated me so poorly.
+3. @178563 We'd rather keep you flying with us and our offer still stands if you'd like our assistance. Please meet us in DMs with more info.
+4. PSA: never fly @AmericanAir . Their customer service will just lie to you. This road warrior will spend on @Delta .",SUPPORT,Other / General Support,ESCALATE,Support issue likely requires case-specific or human handling.
+36,105515,3,"1. @139321 Kevin, we're glad to see you made your connection to your final destination. We're almost done boarding and should be pushing back soon.
+2. @AmericanAir Except there was only OJ and water for refreshment.  Are you trying to be United on purpose or just being shitty for the holiday?
+3. @AmericanAir I’d like to not miss my connecting flight because you can’t get your ground operations in order.  WTF is going on at DFW",SUPPORT,Flight Disruption,ESCALATE,Support issue likely requires case-specific or human handling.
+37,89872,5,"1. @128175 We're sorry for the inconvenience, Adam. Weights and balances are important to our pilots during flight.
+2. @AmericanAir Understand that safety is most important. Just to remove all you're premium flyers with no compensation isn't a great customer service move.
+3. @128175 Once the plane is in the air and at cruising altitude, ask the crew if you can move. You may be asked to move back upon landing.
+4. @AmericanAir Not an option.
+5. @AmericanAir Not a good start to the day. 1484 weight restricted and the rows they close off are all the MCE.",SUPPORT,Seats & Upgrades,ESCALATE,Support issue likely requires case-specific or human handling.
+38,363809,3,"1. @202220 What's going on, Skylar? Please DM your record locator or ticket number along with a few details regarding your refund request.
+2. @AmericanAir Done. Thanks for your help with this.
+3. I'm having no luck receiving a refund from @AmericanAir. I will not be flying with them in the future, and I urge others not to, as well. https://t.co/WxIj2DM92S",SUPPORT,Refund & Compensation,ESCALATE,Support issue likely requires case-specific or human handling.
+39,229299,6,"1. @170686 Schedule changes can happen at anytime, Joe, but we do notify you of them and if adjustments need to be made, we're here to help.
+2. @AmericanAir Well it totally messes us meeting up with the other guys for our bachelor party and really messes up our flights home
+3. @170686 We'd be happy to look at options with you. Please meet us in DM or give our team a call via 800-433-7300.
+4. @AmericanAir Can I cancel without penalty since these aren’t the times or dates I booked?
+5. @170686 If your flights have been changed by more than 61 min, then yes, you can cancel and request a full refund here: https://t.co/xM8Vkc7BvM
+6. @AmericanAir how can you completely change my flight times and days without even asking me?",SUPPORT,Refund & Compensation,ESCALATE,Support issue likely requires case-specific or human handling.
+40,125486,2,"1. @140501 You can always contact Reservations at 800-433-7300 for info on prices.
+2. @AmericanAir Right now flights from Memphis to Omaha are a bit pricey. Should they drop before Mar? My concert isn't until mar 8th.",SUPPORT,Booking & Payment,AUTO_HANDLE,Specific support issue that can reasonably be handled with standard information.
+41,251477,2,"1. @175798 Could you provide additional details via DM? We see that AV flight in your itinerary and an agent should be arriving shortly to assist.
+2. @AmericanAir ... tonight. There are no agents and I have no ticket since i was transferred to an avianca flight that we couldn’t board. HELP",SUPPORT,Booking & Payment,ESCALATE,Support issue likely requires case-specific or human handling.
+42,540470,6,"1. @245387 Have you filed a claim with our bag team at the airport? If so please DM the file number.
+2. @AmericanAir Sent . Your customer service asked me if I am sure I flew in on American Airlines last night. Should try hiring better employees
+3. @AmericanAir For any type of reimbursement for cab fare picking up your bags, you'll need to contact our Baggage Service office. We're unable to compensate for that here. This is the responses I have been getting for 2 days. This is #notmyjob
+4. @245387 We're unable to reimburse for cab fare, Michael. Our Baggage Services offer delivery services. We're sorry it wasn't to your convenience.
+5. @AmericanAir 18 hours after the flight is your delivery services and that’s acceptable . You have proven yourself as a Joke of an airline #boycottamericanair #americanairsucks
+6. Don’t ever fly @AmericanAir  #bums can’t even load your bags on your flight. And worst customer service known to mankind. Boycott @AmericanAir",SUPPORT,Baggage,ESCALATE,Support issue likely requires case-specific or human handling.
+43,408184,2,"1. @212286 Oh no. Please have your parents speak to an airport team member who will be happy to take a look at their booking.
+2. @AmericanAir Parents on DL420 delayed for JFK flow and will miss AA236 to FCO. Can you help?",SUPPORT,Flight Disruption,ESCALATE,Support issue likely requires case-specific or human handling.
+44,150836,2,"1. @142988 We appreciate you saying that, but more importantly we appreciate you flying with us. Have a fantastic day and weekend!
+2. @AmericanAir another great travel day.  You guys don’t get the credit you deserve!",NON_SUPPORT,NON_SUPPORT,AUTO_HANDLE,"Social, praise, casual interaction, or no concrete support request."
+45,492638,3,"1. @232439 We'll get you to your brother for the holidays! We're not expecting any cancellations.
+2. @AmericanAir Promise me
+3. @AmericanAir please tell me I get to see my brother over the break",SUPPORT,Flight Disruption,AUTO_HANDLE,Specific support issue that can reasonably be handled with standard information.
+46,452255,15,"1. @222275 Our team has to be ready the moment they get the okay to depart. Beverage service will be provided once at cruising altitude.
+2. @AmericanAir What’s the excuse for not providing water while they were waiting to refuel?
+3. @AmericanAir So what was the excuse while they were parked at the gate getting the brakes repaired? Why weren’t they given water?
+4. @AmericanAir They were supposed to take off at 1:20 (delayed so boarded at 2:15) for a 4 hr 58 min flight.
+5. @222275 Customers needing any special assistance while parked at the gate are welcome to reach out to a crew member.
+6. @AmericanAir And yes I’m aware there’s a difference between the tarmac and the gate but you’re still holding people hostage on a plane with no access to water for over two hours.
+7. @222275 The guidelines you've posted don't apply in this situation. If your mom needs some extra assistance, please send a DM our way.
+8. @AmericanAir As I said, I know they do not apply but I’m asking if you think it’s ok as a company to keep people sitting there for over two hours without giving them water?
+9. @222275 We see that they're #wheelsup now and as soon as possible, we'll serve drinks.
+10. @AmericanAir It doesn’t matter because they finally pushed but with the holiday travel season you might want to make sure you provide water to those on board for excessive delays. Most other airlines and flight crews do in these situations.
+11. @222275 We always want to take the best care of our customers, and appreciate your feedback.
+12. @AmericanAir That’s not according to the @135450 but if you want to make it about passengers having special needs instead of you ensuring their wellbeing we can do it that way too... https://t.co/rSgd8u81gN
+13. @AmericanAir 2223 they have been providing updates on board (the pilot has been great) and I can understand if they didn’t think it would go on this long but to not provide any water or anything is unacceptable.
+14. @222275 We always want to take the best care of our customers. Please share the flight number with us, so we can check on an update for you.
+15. @AmericanAir you have passengers (including my senior aged mother) who have been sitting on an airplane for two hours and counting @129841 without offering anything to drink. This is abusive. Why aren’t they being given water??",SUPPORT,Onboard Services,ESCALATE,Support issue likely requires case-specific or human handling.
+47,37738,2,"1. @124196 There will be more info provided soon. We're very sorry for the delay today.
+2. Always nice to see the engine housing open 35 minutes after scheduled departure. Thumbs up @AmericanAir...on a plane that was here all night https://t.co/yx4vBxJDF1",SUPPORT,Flight Disruption,AUTO_HANDLE,Specific support issue that can reasonably be handled with standard information.
+48,205471,2,"1. @164690 We're glad the yummy offerings were within your dietary needs, Elizabeth. Enjoy!
+2. @AmericanAir Loved the #Flagship lounge at JFK. REALLY appreciated the gluten free selections.#celiac",NON_SUPPORT,NON_SUPPORT,AUTO_HANDLE,"Social, praise, casual interaction, or no concrete support request."
+49,411210,3,"1. @213079 We're sorry that you've been delayed. Please send us a DM when you reach your destination and we'll take a look.
+2. @AmericanAir Thank you. I sure will.
+3. @AmericanAir what’s the procedure when my flights been delayed five times? This is ridiculous. Paid extra for direct flight as well.",SUPPORT,Flight Disruption,ESCALATE,Support issue likely requires case-specific or human handling.
+50,126949,4,"1. @144493 We're truly sorry we missed your visit with us, Shawn. Hope to see you again in the near future.
+2. @AmericanAir No mention of holiday hours...weird considering flights are still going on https://t.co/jk7Qaxy12j
+3. @144493 We have holiday hours for today. Are the hours posted there at the club?
+4. @AmericanAir wtf, why is the admirals club at terminal C at DFW closed?? it's not 10:15...",SUPPORT,Other / General Support,AUTO_HANDLE,Specific support issue that can reasonably be handled with standard information.
+51,420318,5,"1. @215187 We're working hard to get you on your way. Let us know when you arrive and we'll take a closer look at this.
+2. @AmericanAir This is vague, in what way? I just received another notification of another 30 minute delay (4.5 hours now).
+3. @215187 Our team at the airport will take great care of you.
+4. @AmericanAir To clarify, I meant car service to take me from regional terminal to regular terminal. (F/C platinum pro paying customer here)
+5. @215187 We're sorry for the delay, Nikki. We're not able to arrange a car service to meet you.",SUPPORT,Flight Disruption,AUTO_HANDLE,Specific support issue that can reasonably be handled with standard information.
+52,106562,6,"1. @139623 Our offer still stands to take a closer look into this for you, but we do need your cooperation in providing us the info we requested.
+2. @AmericanAir Info has been supplied to you 3 times.  Keep playing the game, I can go on too
+3. @139623 We need your name, record locator or AAdvantage number to further assist you.
+4. @AmericanAir You have been supplied this info 3 times, quit stalling
+5. @AmericanAir Guess what else @AmericanAir likes to avoid?!  They like to avoid locking down their food carts.  As we are landing in DFW, food cart flies down plane aisle and hits several passengers.  When asked about it, they don’t want to deal with it
+6. Leaving work on a Monday like... 🏃💨✌️  #seeya https://t.co/Dep8oDQRHw",SUPPORT,Other / General Support,ESCALATE,Support issue likely requires case-specific or human handling.
+53,173777,2,"1. @153030 We apologize for the confusion and see that our team provided the best seat option. No customer was upgraded from the airport list
+2. When @AmericanAir tries to publicly shame you https://t.co/Mo9qpxgHHp",SUPPORT,Seats & Upgrades,AUTO_HANDLE,Specific support issue that can reasonably be handled with standard information.
+54,285823,4,"1. @184099 Most people count sheep at night, Kevin. We like your #NightShots better.
+2. @AmericanAir Thanks. Keep a seat warm for me on Monday evening from ORD to LHR. ;)
+3. @184099 We'll be sure to do that! Looking forward to seeing you again.
+4. Was I bored at my hotel last night? With these views? Not at all. (@153717 A330 and @AmericanAir  787 both departing from ORD https://t.co/7zuoqod8r2",NON_SUPPORT,NON_SUPPORT,AUTO_HANDLE,"Social, praise, casual interaction, or no concrete support request."
+55,326798,4,"1. @193870 We have some options in place to make changes. You can read more about it here: https://t.co/kNkPUilgez
+2. @AmericanAir No. You're an unethical company who will never have my service. You should probably have options for REFUNDS, you twats.
+3. @AmericanAir That's some bullshit. You should be fucking ashamed. Dicks. #FlyDelta
+4. Hearing that @AmericanAir is trying to profit off of a natural disaster by charging astronomical fees for changing flights to Puerto Rico...",SUPPORT,Refund & Compensation,ESCALATE,Support issue likely requires case-specific or human handling.
+56,169856,2,"1. @155562 We're not able to see her tweets. Let us know if we can assist.
+2. @8911 @AmericanAir  https://t.co/ERzSy3cBwR",NON_SUPPORT,NON_SUPPORT,AUTO_HANDLE,"Social, praise, casual interaction, or no concrete support request."
+57,18496,4,"1. @120114 Please have the customer reach out to us directly.
+2. @AmericanAir Thank you for quick reply
+3. @120115 @AmericanAir what’s up with her bags taking over two hours to claim ?
+4. #مطار_الملك_خالد اربع رحلات في سير واحد .. ننتظر ساعتين علشان الشناط!!! .. الموظفون غير متعاونون ابدا https://t.co/cTc2G8jRgW",SUPPORT,Baggage,AUTO_HANDLE,Specific support issue that can reasonably be handled with standard information.
+58,364934,4,"1. @202444 Our team is on it and we'll have you on your way just as quickly as we can.
+2. @AmericanAir How come this doesn't happen on @JetBlue or @SouthwestAir ? I am a frequent flier, I know!
+3. @202444 We're sorry for the delay, there was a prior delay that caused a domino effect. The flight's still scheduled to depart, currently at 4:20p.
+4. @AmericanAir wtf. I'm stranded in the Bahamas. The 12:45 to Charlotte is cancelled and no one at @AmericanAir will make it right!",SUPPORT,Flight Disruption,ESCALATE,Support issue likely requires case-specific or human handling.
+59,3103,16,"1. @116415 We always want everyone to be comfy. You can ask our crew about any available open seats.
+2. @AmericanAir Oh god, we’re in ascent and this baby just went full Chucky. Happy Halloween?
+3. @AmericanAir Like, any?
+4. @AmericanAir Okay, well, I’ll start this conversation back up after I buy WiFi in the air. Cya in a little bit.
+5. @AmericanAir Oh, wow. We are in ascent and this baby just went full Chucky. Happy Halloween?
+6. @116415 You'd have to speak with our crew and ask what is available. It would need to be in the same cabin and in the same type of seat.
+7. @AmericanAir I gotta admit, this baby has some commitment. #stillgoing
+8. @AmericanAir #stillgoing
+9. @AmericanAir Should have brought earplugs and ambien. #stillgoing
+10. @116415 @AmericanAir jeez!
+11. @116416 @AmericanAir The entire flight, dude.
+12. @AmericanAir Bought a flight pass to tell you guys this baby is still Chucky possessed screaming. Only seats available in cabin are the ones around me.
+13. @AmericanAir #blessed, I guess.
+14. @AmericanAir Oh, my god, she’s been going for ten minutes.
+15. @AmericanAir Like, this is really bad.
+16. Yo @AmericanAir, I’m on flight 48 32C (DFW to Paris) and sitting next to THE loudest baby I’ve ever heard in my life. How about an upgrade?",SUPPORT,Onboard Services,ESCALATE,Support issue likely requires case-specific or human handling.
+60,97808,3,"1. @137427 We have great snacks and food on our flights. Come share the sky with us!
+2. @AmericanAir i'm already a snack without u
+3. @AmericanAir i'm hungry",SUPPORT,Onboard Services,AUTO_HANDLE,Specific support issue that can reasonably be handled with standard information.
+61,511925,6,"1. @237714 We have an ETD of 6:50p. We're very sorry for the extra travel time.
+2. @AmericanAir Yeah, I already know that. I'm asking why the ETD changed multiple times in less than a minute, sending me a text message, app notification and e-mail EACH TIME.
+3. @237714 We're sorry for the incorrect ETDs, and appreciate your patience during that.
+4. @AmericanAir Can you give me any info on the cause of the delay?
+5. @237714 The delay is currently due to a late arriving crew. Once we have everyone in place, we'll get the flight underway.
+6. Uhh @AmericanAir wtf is going on with flight 2098? The departure time keeps changing back and forth, I got like 5 notification in 1 minute...",SUPPORT,Flight Disruption,AUTO_HANDLE,Specific support issue that can reasonably be handled with standard information.
+62,396238,5,"1. @209821 We'r glad it's been resolved for you now! Please DM your flight details if you need any help again.
+2. @AmericanAir It hasn't been resolved hence the word NOT.
+3. @AmericanAir My problem was NOT resolved and I was hung up on. It's completely inexcusable
+4. @209821 Katie, we thank you for booking with us and apologize for any rudeness you experienced. We expect our team to be professional and friendly.
+5. @AmericanAir should be a lot friendlier to the people who book the flights for their company. Happy to switch to @Delta @JetBlue",SUPPORT,Other / General Support,ESCALATE,Support issue likely requires case-specific or human handling.
+63,255655,2,"1. @176801 Lithium ion batteries over 100Wh are limited to 2 per customer.
+2. @AmericanAir Is 176Wh Lion Battery too big for carry-on? Its for a @13184 #M210 #SearchandRescue Drone. Limit on Quantity?",SUPPORT,Baggage,AUTO_HANDLE,Specific support issue that can reasonably be handled with standard information.
+64,157157,2,"1. @149548 Yep! It's a fallstreak hole which is a large gap, usually circular or elliptical, that can appear in cirrocumulus or altocumulus clouds.
+2. Hey @AmericanAir , did you ever figure out what that hole was? I'm really curious. https://t.co/xB7gXyzMnq",NON_SUPPORT,NON_SUPPORT,AUTO_HANDLE,"Social, praise, casual interaction, or no concrete support request."
+65,536246,2,"1. @244244 We're sorry to hear your mother was sick this morning. Please follow, provide your record locator and share with us more details via DM.
+2. @AmericanAir doesn’t care about cancer patients. Charges the terminally ill when they’re too sick to make a flight @24374 #AmericanAirlines",SUPPORT,Other / General Support,ESCALATE,Support issue likely requires case-specific or human handling.
+66,166825,5,"1. @154762 We do our best to always be ready to go for you, but safety is our top priority. We're estimated to leave now at 6:20p.
+2. @AmericanAir No no it is not! We officially have no plane! Of course we would all like to be safe I would also like to GO HOME!!!! and not have to spend money on airport food! And not have to sit in a gross airport!!!  Or have to rebook my flight! 😡😡 Gather your life @AmericanAir
+3. @AmericanAir AA 4358 but does the flight number matter I can’t fly with y’all with out a delay it’s almost like a running joke on me.
+4. @154762 We know you're ready to be on your way, Antoinette. What's your flight number, we'll check on an update?
+5. Breaking my twitter hiatus because WHY CANT I FLY @AmericanAir WITH OUT A DELAY!?!?! 3 HOURS American! 3 hours!  #runmemycoinback",SUPPORT,Flight Disruption,ESCALATE,Support issue likely requires case-specific or human handling.
+67,487041,2,"1. @229391 No problem, John! We're always here to help.
+2. Thanks @AmericanAir for quickly resolving my TSA PreCheck issue! #greatcustomerservice https://t.co/Z1vBmUCb1g",SUPPORT,Check-in & Airport,AUTO_HANDLE,Specific support issue that can reasonably be handled with standard information.
+68,437502,8,"1. @218897 We're sorry to hear this. Please file a claim with our specialists by calling 800-866-4010.
+2. @AmericanAir I've tried to call 3 times now but am continuously being placed on long holds
+3. @218897 We appreciate your patience while waiting on the line. We'll have someone to assist as soon as possible.
+4. @AmericanAir 4th time trying to call and on hold AGAIN. I can't sit around all day trying to be connected with someone to talk to about this.
+5. @218897 Your time is important and we're aware. We'll get to you ASAP!
+6. @AmericanAir I hung up because I value my time and I'm on vacation.
+7. @AmericanAir I just know I'll never fly @AmericanAir again since their employees are awful people.
+8. Left my purse on an @AmericanAir flight (got it back) but $40 is missing out of my wallet so that's awesome!!!",SUPPORT,Baggage,ESCALATE,Support issue likely requires case-specific or human handling.
+69,408877,3,"1. @212477 Hi Adam, I am reviewing your reservation now. Thanks for your patience as we have been very busy today. *TSE
+2. @Delta PHL&gt;RDU cancelled and rebooked for 24hr later. No hotel voucher, no apology, and rude agents. Guess who's flying @AmericanAir ?
+3. @212477 We know this one: Adam will be flying with us! You'll have an #AAwesome trip.",NON_SUPPORT,NON_SUPPORT,AUTO_HANDLE,"Social, praise, casual interaction, or no concrete support request."
+70,337839,5,"1. @196638 We're sorry this has been your experience. Please let us know if we can help in someway.
+2. @AmericanAir Refund process is broken. Misleading upgrade offers when checking in on mobile app. Glad to talk with someone who can help.
+3. @196638 We're here for you. DM your record locator and details.
+4. @AmericanAir @196638 Sorry Chuck, par for the course for #AAteam 
+Let me tell you about the time cust ser told me to throw my luggage in the trash to make flight
+5. Not at all happy with my interaction with @AmericanAir .  #CustomerService is an oxymoron with them.  #misleading",SUPPORT,Refund & Compensation,ESCALATE,Support issue likely requires case-specific or human handling.
+71,288574,2,"1. @184753 We don't want that title! Please let us know if you need any travel help.
+2. @AmericanAir is the worst airline",NON_SUPPORT,NON_SUPPORT,AUTO_HANDLE,"Social, praise, casual interaction, or no concrete support request."
+72,34792,3,"1. @123552 It's delayed due top prior maintenance issues and is estimated to leave now at 9a.
+2. @AmericanAir Plane still not at gate, maybe you could ask the agent to let the mob know the status @AmericanAir #service please
+3. @AmericanAir any update on 2357 to PIT?",SUPPORT,Flight Disruption,AUTO_HANDLE,Specific support issue that can reasonably be handled with standard information.
+73,418486,6,"1. @214846 Bad weather caused many of our flights to cancel or get delayed. Our airport team can offer you seat options when you check-in.
+2. @AmericanAir What about the plane I’m sitting on now that hasn’t moved and was supposed to leave at 2:27.......
+3. @AmericanAir An update as to why weve been on the runway for 40 mins would have been nice #neverflyingamericanagain
+4. @214846 We'd like to check on an update for you. What's the flight number?
+5. @AmericanAir I shouldn’t have to tweet to get an update....
+6. @AmericanAir $150 in charges for extra room seats because that’s the only flight into jfk tomorrow?And your response is “LGA isn’t too far”",SUPPORT,Flight Disruption,AUTO_HANDLE,Specific support issue that can reasonably be handled with standard information.
+74,241501,2,"1. @173341 Aww, we appreciate your kind words. We're always happy to help when we can.
+2. Cant be more #thankful for #goldstar #customerservice #thankyou @AmericanAir for ur help last second so I can focus on fixing my broken foot",NON_SUPPORT,NON_SUPPORT,AUTO_HANDLE,"Social, praise, casual interaction, or no concrete support request."
+75,401044,4,"1. @210856 We see you're on your way now, Betty. Thanks so much for your patience this afternoon.
+2. @AmericanAir And thank you for the warm cookies and the free wine! 😍😍😍
+3. @210856 You're very welcome! Thanks for flying with us.
+4. 3.5 hour delay on AA #66 SFO &gt; JFK 😰😰😰 @AmericanAir",SUPPORT,Flight Disruption,AUTO_HANDLE,Specific support issue that can reasonably be handled with standard information.
+76,42800,3,"1. @125472 If free seats are no longer available, our airport team is happy to assist in assigning one the day.
+2. @AmericanAir AA misleads us intentionally
+3. @AmericanAir
+
+Flew from STS on a 2/3 full flight.  Could not select a seat, forced to pay 33 dollars for a seat!
+
+Nickel and diming America",SUPPORT,Seats & Upgrades,ESCALATE,Support issue likely requires case-specific or human handling.
+77,338278,2,"1. @196749 What's going on, Jenna? DM your record locator and details if we can assist.
+2. @AmericanAir I gave you a second chance after April’s Mexico fiasco... shouldn’t have bothered. Never again... you suck, literally",NON_SUPPORT,NON_SUPPORT,AUTO_HANDLE,"Social, praise, casual interaction, or no concrete support request."
+78,226194,4,"1. @170000 We're very sorry for the confusion. Let us know if we can assist here.
+2. @AmericanAir The lady at the front desk said to contact American for reimbursement for our car and hotel. Not sure who to contact, they got us on the next flight tomorrow morning but still had to get a car and a room for the night. Can you let me know who to contact for the extra costs?
+3. @170000 We're not able to reimburse car rentals. Please DM your record locator.
+4. @AmericanAir had a flight booked at 12:35 today got to the airport they said that flight didn’t even exists last flight to PH already left... Had to rent a car and stay at a hotel with my family 😫 https://t.co/uXevS6rq50",SUPPORT,Refund & Compensation,ESCALATE,Support issue likely requires case-specific or human handling.
+79,391838,4,"1. @208778 Our maintenance team is working hard to get things squared away and on your way with a current 12:05p departure.
+2. @AmericanAir So two hour delay w little communication. Fun stuff. Sticking with Southwest from here on out.
+3. @208778 We love flying with you and understand communication is key. Our crew will have you in the clouds the moment they're able.
+4. @AmericanAir What’s up with American Airlines flight 1622? Sitting on tarmac w no explanation",SUPPORT,Flight Disruption,AUTO_HANDLE,Specific support issue that can reasonably be handled with standard information.
+80,278760,3,"1. @182475 We're happy to have you on board with us. Tell her we said ""Hi!""
+2. @AmericanAir Thank you and I will ❤️ - you guys are the best! Thank you for all the help &amp; support along the way.
+3. Off to #StThomas - on @AmericanAir via @150414  from @133384 - can’t wait to hug my daughter #VISTRONG ✈️❤️🇻🇮 https://t.co/r4H6w6yORo",NON_SUPPORT,NON_SUPPORT,AUTO_HANDLE,"Social, praise, casual interaction, or no concrete support request."
+81,83921,2,"1. @134442 We know being delayed can be frustrating. We'll get this taken care of quickly and get you headed out. Thanks for your patience.
+2. @AmericanAir nearly 1hr late because we had to return to gate &amp; refuel plane...with water for the toilets. Why didn’t this happen before boarding when passengers &amp; plane hung out at the gate for an hour? https://t.co/sx9CtHnuVN",SUPPORT,Flight Disruption,AUTO_HANDLE,Specific support issue that can reasonably be handled with standard information.
+82,178387,2,"1. @158056 We're sorry for the maintenance cancellation today, Josh. If you'd like to leave from RDU in the morning, please DM us.
+2. My start to #FemRhet17 
+
+@AmericanAir you're the worst https://t.co/tT6Og3WwK9",SUPPORT,Flight Disruption,ESCALATE,Support issue likely requires case-specific or human handling.
+83,341082,2,"1. @197488 Please DM your record locator. We'd like to take a closer look.
+2. @AmericanAir WOW 1 hour 5 Minutes waiting for a gate MIAMI and still nothing connection lost, etc Fl 2703 Oct 7 POS  / MIA",SUPPORT,Check-in & Airport,ESCALATE,Support issue likely requires case-specific or human handling.
+84,304083,7,"1. @188603 We're very sorry for the delay, Rodolfo. What's your flight number, we'll check on an update?
+2. @AmericanAir Hello American, flight 3684 destination to DFW from XNA   and no signs on status yet
+3. @188603 We're showing you're estimated to depart at 6p. You can sign up for notifications if you'd like: https://t.co/h88H9iXqqT
+4. @AmericanAir Its says so but the kind ladies here have no idea of what's going on.
+5. @188603 It's been delayed due to maintenance. We're sorry for the wait. We're working hard to get you in the air as soon as possible.
+6. @AmericanAir I know you are guys, we appreciate that, now the other flight is delayed, hopefully this doesn't costs a lot of loyalty.
+7. Second time in a row @AmericanAir  has let me down... I still have faith. Thanks guys. Keep delaying everybody's meetings, loved ones etc.",SUPPORT,Flight Disruption,AUTO_HANDLE,Specific support issue that can reasonably be handled with standard information.
+85,116772,6,"1. @142013 You're frustrated, we get it. In order for us to file a claim for possible reimbursement, we'll need to inspect your bag.
+2. @AmericanAir Can you send someone to my hotel? Im just 10 miles from the airport.
+3. @142013 That's not possible. Sorry, Ajay.
+4. @AmericanAir I'm already back at my hotel. Do you expect me to travel to the airport to show you the damage?
+5. @142013 Oh, please file a report with our Baggage team at the airport. They'll physically assess any damages done to your bag.
+6. @AmericanAir Thanks for damaging my suitcase in spite of paying a total of 60 USD for 2 pieces of luggage. #Thanksgiving2017",SUPPORT,Baggage,ESCALATE,Support issue likely requires case-specific or human handling.
+86,285422,4,"1. @183999 We're sorry that option didn't work for you but we'll have you on your way soon. We're thrilled to fly with you today.
+2. @AmericanAir $20 is small. $75 not so much.
+3. @183999 Some tickets are more flexible than others, there's an option for Same day flight change for a small fee.
+4. @AmericanAir Empower your gate agents. I was just told a flight was leaving with empty seats but I couldn't get on without a fee. #nosense",SUPPORT,Booking & Payment,ESCALATE,Support issue likely requires case-specific or human handling.
+87,273465,7,"1. @181321 We always want to keep you with your bad, Michele. We're so sorry for the inconvenience this evening.
+2. @AmericanAir You wanna reread that response @AmericanAir? My ""bad""? Because that's a perfect example of just not caring.
+3. @181321 Our apologies, Michele. We're human and we make mistakes. We meant to say bag.
+4. @AmericanAir Thanks for super helpful reminder. I believe @Delta @SouthwestAir @116450 @VirginAmerica all also have humans. Maybe theirs will be better.
+5. @181321 @AmericanAir @Delta @SouthwestAir @116450 @VirginAmerica And on #CustomerServiceWeek2017 - #shame
+6. @181321 @AmericanAir @Delta @SouthwestAir @116450 @VirginAmerica Well @AmericanAir - this human will find an airline with less snark and more genuine customer service...as will our employees #EpicFail
+7. @AmericanAir Can you explain how a bag I brought on your plane is suddenly ""too large"" for the return flight? Glad I paid to upgrade. #fraud",SUPPORT,Baggage,ESCALATE,Support issue likely requires case-specific or human handling.
+88,9462,2,"1. @117697 Oh my, please DM your record locator and include your email &amp; mailing address. Lastly, provide as many details as possible.
+2. Hey @AmericanAir! I got food poisoning from your inflight meal on Sunday. Just a heads up in case you want to look in to that. https://t.co/KgiWcryFNY",SUPPORT,Onboard Services,ESCALATE,Support issue likely requires case-specific or human handling.
+89,488967,8,"1. @231442 Yes, that's the plan.
+2. @AmericanAir So, still haven’t received any updated information on departure arrival information of this flight.  This really sucks that for normal operations your communication is great through the flight status process , but when something goes off track like a diversion there are no update
+3. @AmericanAir I think it’d be great idea to communicate through the folks that have set up flight status messages, the updates to the flight plan when it’s diverted
+4. @231442 It looks like they just landed at LAX, at gate 42B. Thanks for your patience.
+5. @AmericanAir Ok
+6. @AmericanAir So they are going to continue on to LAX ?   What kind of weather condition is here, I’m here and aside from being over cast clouds I don’t see any other extreme weather
+7. @AmericanAir AA flight 1246 diverted and I’m not receiving any information on why or what the plan is. 
+
+Not a great experience to leave passengers loved ones stranded with No information.  Some like such a simple thing to put in place comm.  plans for situations such as the this
+8. @231442 We're here to keep you in the loop, Joe. The plane diverted to Ontario due to weather conditions, but should be airborne again soon!",SUPPORT,Flight Disruption,ESCALATE,Support issue likely requires case-specific or human handling.
+90,49364,2,"1. @127039 We want your check in process to be as smooth as possible. We're very sorry for the wait, Cristina.
+2. @AmericanAir cuál es el punto de hacer self check in para luego hacer una fila de hora y media para una asistencia que NO necesito",SUPPORT,Check-in & Airport,AUTO_HANDLE,Specific support issue that can reasonably be handled with standard information.
+91,407194,2,"1. @212055 Your comment concerns us, Please meet us in DM with your six letter confirmation.
+2. Never flying @AmericanAir again. Most inconvenient airline out there.",NON_SUPPORT,NON_SUPPORT,AUTO_HANDLE,"Social, praise, casual interaction, or no concrete support request."
+92,511988,5,"1. @237718 On time flights are the plan, however for the safety of our customers, delays can happen. Please let us know if you need rebooking help.
+2. @AmericanAir The flight was not delayed it was completely cancelled with no explanation
+3. @237718 We're glad to see you're confirmed on the next flight. We have a link you can use to track your bag: https://t.co/vpkBeWiqTq
+4. @AmericanAir Not so much as an offer for a drink voucher or ANYTHING
+5. @AmericanAir really ridiculous and I’ve never had this type of service from any other airline. You’re losing a customer. I should have stuck with @JetBlue !!!!!",SUPPORT,Flight Disruption,ESCALATE,Support issue likely requires case-specific or human handling.
+93,240372,3,"1. @173093 We take excellent care of the little ones that travel with us. Please let us know if we can help you.
+2. @AmericanAir LIES LIES LIES
+3. @AmericanAir The airline that loses children, seats pedophiles next to lone children.
+The ""american"" way it would seem.",SUPPORT,Other / General Support,ESCALATE,Support issue likely requires case-specific or human handling.
+94,431703,2,"1. @217637 We do have a travel alert in place for customers traveling from STS. https://t.co/kNkPUilgez
+2. @AmericanAir Apparently doesn't give two shits about people effected by the wild fires in Sonoma County. Never flying with them again. 🤬🤬🤬",NON_SUPPORT,NON_SUPPORT,AUTO_HANDLE,"Social, praise, casual interaction, or no concrete support request."
+95,201572,2,"1. @163606 We want our customers to be aware of the great deals offered with the cards, Steve. Thanks for your understanding.
+2. @AmericanAir pls stop peddling credit cards onboard flights. pitching cards over the intercom EVERY flight just a joke. #useyourwebsite",SUPPORT,Onboard Services,AUTO_HANDLE,Specific support issue that can reasonably be handled with standard information.
+96,466931,6,"1. @225453 We're truly sorry that your travel has been affected. We've got an estimated departure time of 12:30a.
+2. @AmericanAir Quit updating your goddamn app. They’re putting us up in a hotel. No luggage though so we can’t brush our teeth. I will never fly you ever again. This has been beyond horrible
+3. @AmericanAir I cannot believe this. You all truly should be ashamed of how this situation has been handled.
+4. @AmericanAir It’s 12:11 and we still haven’t been given an update by anyone other than the “12:30 departure time” on our phones. That’s not much help.
+5. @AmericanAir Oh - actually, just got an update. THEY ARENT FLYING US.
+6. I honestly have never had a worse experience than this evening with @AmericanAir, and that includes a 12-Hour flight delay with Southwest I once had. AA is an embarrassment &amp; the AA staff @150414 are truly awful. Honestly this has to be a joke.",SUPPORT,Flight Disruption,ESCALATE,Support issue likely requires case-specific or human handling.
+97,36777,4,"1. @124026 Please see here for more info regarding filing a claim: https://t.co/c2WPmpJSpV
+2. @AmericanAir I'm already at another terminal boarding another flight. How should I proceed from here? It was too tight to stop and chat with an agent.
+3. @124026 Please see our airport Baggage team. They can review this for you, Renee.
+4. Dear @AmericanAir,
+Arrived to YYZ today (AA2468 &amp; AA1359) to find luggage covered in an unknown viscous fluid. Who to speak to re: damages? https://t.co/SwXvZI4iUP",SUPPORT,Baggage,ESCALATE,Support issue likely requires case-specific or human handling.
+98,165215,2,"1. @154302 We're working on modernizing our entire fleet, Samantha. Thanks for hanging in there.
+2. I cant believe that there are still airlines that make you pay for wifi... have no tvs... and have 6 inches of leg room. you win worst of the worst @americanair",SUPPORT,Onboard Services,AUTO_HANDLE,Specific support issue that can reasonably be handled with standard information.
+99,312876,2,"1. @190720 We wish it was #FirstClassFriday, but we'll Wing it with ya!
+2. #WingFriday #PHX @AmericanAir https://t.co/NTzIIXvpaC",NON_SUPPORT,NON_SUPPORT,AUTO_HANDLE,"Social, praise, casual interaction, or no concrete support request."
+100,34802,4,"1. @123554 It's going to be another great journey and we're very happy to have you on board. Let the #AAdventure begin!
+2. @123555 @AmericanAir Flying to Seoul from the states, so you’ll see plenty of me today!
+3. @123554 @AmericanAir Hi Spencer! So happy to have you sharing your happy moment with us:) Where are you flying to this time? -Dan
+4. The birthday trip begins with Flagship First Dining and continues with @123555 first class. Can’t wait to fly! https://t.co/rS4XqJBijo",NON_SUPPORT,NON_SUPPORT,AUTO_HANDLE,"Social, praise, casual interaction, or no concrete support request."
+101,102328,2,"1. @138456 We appreciate you letting us know what happened at SMF. We depend on our customers feedback for an insight on how we're doing.
+2. @AmericanAir You were understaffed 11/18 in SMF. I checked in the day before and waited 45 minutes to drop off my bag. You then tell me it's my fault for not telling you? If you have multiple 6AM flights, you need more than 4 counter agents.",SUPPORT,Check-in & Airport,ESCALATE,Support issue likely requires case-specific or human handling.
+102,497945,2,"1. @160045 We enjoyed reading your blog and appreciate you including us in your travel plans, Simon!
+2. @6530 - with @AmericanAir #FirstClass help, will be coming to see them, from #CaymanIslands, in a few weeks. #travelblog https://t.co/HPm4Zbwqzf https://t.co/j1PiRRhnhi",NON_SUPPORT,NON_SUPPORT,AUTO_HANDLE,"Social, praise, casual interaction, or no concrete support request."
+103,38366,4,"1. @124348 We love hearing that Michelle is really knocking it out of the park today and taking excellent care of everyone. #AATeam
+2. @AmericanAir Please recognize her. She is amazing!
+3. @124348 We sure will!
+4. @AmericanAir currently on ✈️ AA4683 from XNA to LGA. Flight Attendant Michelle is one of your best #positive #friendly #pleasant experience",NON_SUPPORT,NON_SUPPORT,AUTO_HANDLE,"Social, praise, casual interaction, or no concrete support request."
+104,100583,5,"1. @137997 An on-time departure is always the goal and we apologize for the wait. Our team will have you up and on your way as quickly as we can.
+2. @AmericanAir @137997 But what happens when you consistently fail to meet your goals?
+3. @137998 @137997 @AmericanAir If you're Tesla, you continue to take in oodles of investor money
+4. @AmericanAir Pro tip, @americanair: If your pilots would show up more than 240 seconds before scheduled takeoff, they’d have more time to deal with your disintegrating airplanes.
+5. Another day, another opportunity to get f—-d by @AmericanAir.",SUPPORT,Flight Disruption,ESCALATE,Support issue likely requires case-specific or human handling.
+105,296503,3,"1. @186619 We don't want that, John. Please let us know if you need some help with your travels.
+2. @AmericanAir Already DM’d.
+3. You SUCK, @AmericanAir",NON_SUPPORT,NON_SUPPORT,AUTO_HANDLE,"Social, praise, casual interaction, or no concrete support request."
+106,496265,3,"1. @233380 We're absolutely thrilled hearing Bernice is taking really good care of our customers! DM us your record locator, please.
+2. @AmericanAir Excited to share! Just sent my information. Thanks!
+3. Huge thank you to Bernice C @AmericanAir @129841 for making my day after leaving my bag on plane. She was able to resolve issue in no time. Best customer service!!! 🙌🏻",SUPPORT,Baggage,AUTO_HANDLE,Specific support issue that can reasonably be handled with standard information.
+107,530146,2,"1. @242770 We're so sorry for the delay, Ben. The safety of our customers and crew is our top priority. We'll have you on the way as quickly as we can.
+2. Take off delayed more.. are you kidding me! Been on this plane for 30+ minutes! @AmericanAir #notcool",SUPPORT,Flight Disruption,AUTO_HANDLE,Specific support issue that can reasonably be handled with standard information.
+108,536280,2,"1. @244252 It's always nice to sit up front, Betty! Thanks for hanging out with us this morning.
+2. What do I 💜 about first class to #Dallas on @AmericanAir?! 😏#saturdaymorning https://t.co/33mdlXvOXP",NON_SUPPORT,NON_SUPPORT,AUTO_HANDLE,"Social, praise, casual interaction, or no concrete support request."
+109,360345,4,"1. @201341 We're showing a current departure time of 3:30p due to a previous maintenance delay. Our team will have you on your way ASAP.
+2. @AmericanAir I'll believe it when I see it. They say We'll get to Albany at midnight tonight? Seriously??? Wish I booked @43136 or ANY other.
+3. @AmericanAir I've flown @SouthwestAir hundreds of times &amp;have NEVER had a maintenance delay! Haven't flown @AmericanAir in a while, now I know why.
+4. Don't ever fly @AmericanAir cuz you'll be sorry. Never again. Stranded in #Bahamas",SUPPORT,Flight Disruption,ESCALATE,Support issue likely requires case-specific or human handling.
+110,359354,4,"1. @201103 Our sincere apologies for the delay. If you let us take a look at your record locator via DM, we'll check on your connection.
+2. @AmericanAir Franco at gate H1B is in the process of trying to save the day for us. Thank you @AmericanAir for getting back to me.
+3. @201103 That's great to know! We know you're in good hands with Franco. We'll be here just in case you need us.
+4. You are killing me @AmericanAir our flight hasn’t left ORD. At our second gate and it looks like we will land after our connection takes off",SUPPORT,Flight Disruption,ESCALATE,Support issue likely requires case-specific or human handling.
+111,157153,7,"1. @152098 It is a busy holiday season, and lines can be pretty long. We know it's disappointing to miss out on family time.
+2. @AmericanAir You can make it up to me by doubling my miles earned on my first flight :)
+3. @152098 To ensure your bags make all your flights, we do ask that you check them back in if you're booked in separate reservations.
+4. @AmericanAir No they're not but that hasn't stopped other airlines from being able to do it
+5. @152098 Are your flights all in the same reservation? We can double check for you, if you meet us in DM with your record locator.
+6. Glad I have a long layover because @AmericanAir is incapable of checking my bag all the way through so I get to go through security again YAY
+7. @AmericanAir Was supposed to meet my brother at the Admirals Club but now I will instead be waiting in security lines on a holiday again. Def not paying for access now.",SUPPORT,Baggage,ESCALATE,Support issue likely requires case-specific or human handling.
+112,297513,2,"1. @186871 Our pleasure! We do our best to impress and we're always here when you need us.
+2. @AmericanAir thank you for helping me today! Very appreciative! Keep up the good work",NON_SUPPORT,NON_SUPPORT,AUTO_HANDLE,"Social, praise, casual interaction, or no concrete support request."
+113,541736,6,"1. @245713 We always want you to be updated, you can sign up for notifications on your flight here, https://t.co/OtDaH7XmLN.
+2. @AmericanAir Yes I know where I should sign up but the flight I am tracking says on time when it’s actually delayed 75 minutes... 🙄
+3. @245713 Ross, please DM your record locator so we can verify your flight details.
+4. @AmericanAir Flight 645 OGG to PHX. Just landed over a hour late and @24626 was kind enough to notify me since your system said it was on time.
+5. @245713 We're sorry for the wait, Ross. We do our best to update our information as it is received.
+6. When third parties (@24626) know more about your flight status than your own systems... @AmericanAir",SUPPORT,Flight Disruption,ESCALATE,Support issue likely requires case-specific or human handling.
+114,210854,4,"1. @165912 They may want to reach out to the Red Cross or an official local charity for help.
+2. @AmericanAir That’s great : ) Just thought that since CLT was a hub, you might have a lead on how they can get transport... tnx for response!
+3. @165912 We're working with the government and the Red Cross and have been on the ground from the beginning. See the latest: https://t.co/LS0P7pFEyZ
+4. Any help? @AmericanAir @JetBlue @Delta @SouthwestAir @116450  https://t.co/Ut4RWFWMSe",NON_SUPPORT,NON_SUPPORT,AUTO_HANDLE,"Social, praise, casual interaction, or no concrete support request."
+115,418856,2,"1. @182474 We're thrilled to hear how awesome Lisa was and we'll proudly share your praises with her. #AATeam
+2. @AmericanAir I was just on aa140 from DFW to SJC. Just wanted to say Lisa was an awesome flight attendant!",NON_SUPPORT,NON_SUPPORT,AUTO_HANDLE,"Social, praise, casual interaction, or no concrete support request."
+116,360830,5,"1. @201430 We'd be happy to check out available seat options with you in DM, please send us your record locator there.
+2. @AmericanAir DM has been sent
+3. @AmericanAir EVERYTIME I fly to California I can’t pick a decent seat!
+4. @201430 We value and greatly appreciate your loyalty, what's going on that has you feeling otherwise?
+5. The next two weeks (8 flights) will be the last on @AmericanAir ! Being a platinum member means nothing! Therefore I’ll move my business 👍🏼",SUPPORT,Seats & Upgrades,ESCALATE,Support issue likely requires case-specific or human handling.
+117,337065,2,"1. @196423 What a great shot of that #prettybird!
+2. The new Sheps Mound offers a great view of planes touching down 16R, here @americanair 73 is slowing down 16R @196424 (SYD/YSSY) after the flight from Los Angeles (LAX/KLAX) https://t.co/26AwHYYwTt",NON_SUPPORT,NON_SUPPORT,AUTO_HANDLE,"Social, praise, casual interaction, or no concrete support request."
+118,313084,2,"1. @190765 We're so sorry to hear your bag isn't with you. Please file a claim with our Baggage Service Office.
+2. I am now in Charlotte. I was  guaranteed it would be on my flight, but it remains where I spent 7 hrs.. EXTREMELY disappointed @AmericanAir.",SUPPORT,Baggage,ESCALATE,Support issue likely requires case-specific or human handling.
+119,422805,7,"1. @215678 We're sorry to hear that, smooth travel is always the goal and we'll have you on your way ASAP.
+2. @AmericanAir And smooth sailing from here on out. Your flight attendant is fantastic, btw https://t.co/XmZokTXlba
+3. @AmericanAir Ps - it's Miguel on AA 273 - he's great
+4. @AmericanAir Had to go to other and shuttle back here cuz line past ticketing - actual terminal unusually empty - must be having issues in the front end https://t.co/nA6Vkft9Cp
+5. @AmericanAir Flight attendant told me there's a big TSA staffing prob - they have been quitting in droves. Based on where the bottleneck is, makes sense
+6. @215678 He's one of the best in the biz and we appreciate the shout-out to our #AATeam! We'll be sure to pass it along for you.
+7. @AmericanAir @124202 is a worse shitshow than usual... was quicker to bus to the terminal from other than stand in their line!",SUPPORT,Check-in & Airport,AUTO_HANDLE,Specific support issue that can reasonably be handled with standard information.
+120,502777,2,"1. @235137 Way to go, Paul! We'll be sure to pass along the kudos to our #AATeam.
+2. Hey @AmericanAir, just want to shout out for Paul on AA1263 on 11/22, he was fantastic. He is an absolute credit to your customer service stocks. Employ more like him.",NON_SUPPORT,NON_SUPPORT,AUTO_HANDLE,"Social, praise, casual interaction, or no concrete support request."
+121,283283,2,"1. @183485 Our gate team will make sure you get on the correct flight. Thanks for your patience.
+2. Also @AmericanAir had two flights boarding next to each other at gates 45a and 45b. What’s up with that? #airplaneproblems #flying",SUPPORT,Check-in & Airport,AUTO_HANDLE,Specific support issue that can reasonably be handled with standard information.
+122,477285,3,"1. @228430 You're very welcome! Tweet us if you need us.
+2. @AmericanAir Thanks for the help! Especially this early in the morning!
+3. @228430 We're looking at it now and we'll respond via DM.",SUPPORT,Other / General Support,AUTO_HANDLE,Specific support issue that can reasonably be handled with standard information.
+123,300739,4,"1. @187710 We've got our wings crossed! Our gate agents will be able to keep you posted as to your position on the standby list.
+2. @AmericanAir Thanks. So close, but so far away. Trying again on the next flight. #wingscrossed
+3. @187710 Oh, man! We really thought we had this one!
+4. Trying to get home early. #DC &gt; #DFW 2nd attempt @americanair standby #fingerscrossed #goinghome https://t.co/gqZhXS5L4P https://t.co/irvtkCFVLJ",SUPPORT,Flight Disruption,AUTO_HANDLE,Specific support issue that can reasonably be handled with standard information.
+124,342733,4,"1. @197601 We're here for you anytime you need us! Have a great evening. Stay warm!
+2. @AmericanAir All good. Not truly your fault. I just appreciate your responsiveness.
+3. @197601 It's a chilly day for sure and we'll get your bag out you shortly. We appreciate the feedback and sorry for any inconvenience.
+4. Standing on a tarmac in 40 degree weather to get planeside luggage is not cool. Do better @AmericanAir #DCA #americanair #travel https://t.co/rD49ZmGLyq",SUPPORT,Baggage,AUTO_HANDLE,Specific support issue that can reasonably be handled with standard information.
+125,376872,2,"1. @205420 Please let us know how we can help.
+2. @AmericanAir, you should really work on your customer service. The ways you try to scam your customers out of more money is gross",SUPPORT,Other / General Support,ESCALATE,Support issue likely requires case-specific or human handling.
+126,267418,2,"1. @179750 We'll have you at your gate and on your way as quickly as possible!
+2. @AmericanAir seriously we land over an hour late only to taxi and sit waiting for traffic to clear to reach our gate",SUPPORT,Flight Disruption,AUTO_HANDLE,Specific support issue that can reasonably be handled with standard information.
+127,160676,21,"1. @153030 We see our airport team has you rebooked with confirmed upgrades on later flights. Our apologies for any inconvenience caused.
+2. @AmericanAir Very kind of you. Would you like my wife’s number to explain why I won’t be home for dinner?
+3. @153030 Safety for our customers is of the utmost importance. We appreciate your understanding with the need for extra travel time today.
+4. @AmericanAir My wife is waiting for your call. How about you refund me the fare difference in the ticket I booked and the ticket your making me take
+5. @153030 Once the travel is complete, you're welcome to make a refund request here: https://t.co/xM8Vkc7BvM
+6. @AmericanAir Spot me the $160 in the meantime? Those refunds take time you say
+7. @153030 We see the airport team has offered vouchers to help defray your dinner cost.
+8. @AmericanAir You’re right. The $12 voucher makes it all better. Now you only owe me $148?
+9. @AmericanAir Check my flight again. Another missed connection. Where’s another voucher?
+10. @AmericanAir @AmericanAir #Mistake #Thanksgiving #family #ruined #FridayFeeling #leftovers #MeToo #headedtoMiami
+11. @AmericanAir So I’m on my 4th set of boarding passes. https://t.co/Rte4iE9Gq3
+12. @153030 We're sorry for the long wait, Brady. We're working to get you to your destination, as soon as possible.
+13. @AmericanAir For some reason I don’t think you are. Can I rebook on another airline? Come January 1 I will never fly you again. #FormerExecPlatinum
+14. @153030 You'd have to speak to an airport agent to see if there's any availability on another airline. They'll do their best to accommodate you.
+15. @AmericanAir Just did. Can’t do anything. Thanks for nothing.
+16. @153030 @AmericanAir  https://t.co/VWWYjLk9ef
+17. @153031 @AmericanAir @AmericanAir stopped replying @153031 they realized they’re useless liars. Meanwhile I’m now in Miami. Farther away than where I started.
+18. @153031 @AmericanAir Waiting on that confirmed upgrade for my next flight. You already told Twitter it happened
+19. @AmericanAir Those confirmed upgrades didn’t come through? Oh wait. You lied. Will you publicly admit that or should I post by boarding pass?
+20. @AmericanAir *crickets* that’s not #firstclass https://t.co/tFulnrQ9OG
+21. @AmericanAir I love when your maintenance issues on flight 1186 keep me from my family. Why do I keep giving you another chance? #insanity",SUPPORT,Flight Disruption,ESCALATE,Support issue likely requires case-specific or human handling.
+128,286482,4,"1. @184256 Yes, we can! Please send your record locator, KTN info and your date of birth via DM with a follow.
+2. @AmericanAir Thanks so much- just sent a DM with all the info :)
+3. @184256 We received it and we'll respond shortly.
+4. @AmericanAir @120944 I put my KTN on my reservation and checked in but no precheck. Can you help please? ORD-EWR today",SUPPORT,Check-in & Airport,AUTO_HANDLE,Specific support issue that can reasonably be handled with standard information.
+129,463644,3,"1. @225232 Thanks for helping out our team to expedite the boarding process. We appreciate it.
+2. @AmericanAir 🙄 thanks for helping me decide what airline to use in the future #luv #SouthWest
+3. Dear gate agent at @AmericanAir. My iPad is not a carry on. Like it isn’t. My water bottle is bigger. For what reason was it necessary to make me step out of line to put it into my book bag before you allowed me to board. Come on now y’all.",SUPPORT,Baggage,ESCALATE,Support issue likely requires case-specific or human handling.
+130,86558,2,"1. @134913 Our AAdvantage Customer Service team can assist you with that and congratulations, Jennifer! Take a look here: https://t.co/l7FeGMUy12
+2. @AmericanAir How do I update my frequent flyer account with my new married name?",SUPPORT,Loyalty / AAdvantage,AUTO_HANDLE,Specific support issue that can reasonably be handled with standard information.
+131,365351,6,"1. @202542 We're trying to get a full crew for your flight, Cody. As soon as we get one we'll take off for Denver!
+2. @AmericanAir Thanks for the quick reply- you’re the only part of #aa that is today for those of us on #aa2279
+3. @AmericanAir Good news: Your ground crew boarded us. Bad news: myself &amp; fellow passengers have been waiting (for pilot) on the plane for an hour #aa2279
+4. @202542 We see you're on your way now, thanks so much for your patience!
+5. @AmericanAir Yes, though it was quite a disappointing experience with very poor communication. Myself, and fellow passengers, expected better from AA.
+6. @AmericanAir : any clue where our pilot 👩‍✈️ is? #aa2279 https://t.co/OJXfO0pISK",SUPPORT,Flight Disruption,ESCALATE,Support issue likely requires case-specific or human handling.
+132,324620,2,"1. @193332 Upgrades are quite nice! Enjoy.
+2. Upgraded to first class on @AmericanAir because @15928 is super cool. #perksofatravelinghusband",NON_SUPPORT,NON_SUPPORT,AUTO_HANDLE,"Social, praise, casual interaction, or no concrete support request."
+133,327951,3,"1. @194194 We have a 24 hour counter in Terminal 4 and the TSA line opens at 3:00am.
+2. @AmericanAir Thanks!
+3. @AmericanAir I have a 5:00 AM flight from PHX tomorrow. At what time does the check in counter open? And the Security Checkpoint?",SUPPORT,Check-in & Airport,AUTO_HANDLE,Specific support issue that can reasonably be handled with standard information.
+134,434726,4,"1. @218280 Peter, you'll need to remove these batteries from your skateboard. Check here for more info: https://t.co/AhnDRfxtKk
+2. @AmericanAir I see, so removing the battery and placing batteries in my carry on is acceptable. Correct? https://t.co/oUJHWnZsp5
+3. @218280 That's correct!
+4. @AmericanAir hello, can I check-in an electric skateboard with it's 99wH battery removed? Can I carry on the battery itself?",SUPPORT,Baggage,AUTO_HANDLE,Specific support issue that can reasonably be handled with standard information.
+135,241509,2,"1. @173343 We're glad to have you traveling with us today. What's going on?
+2. @AmericanAir I am @9628 and the AAdvantage Executive Platinum experience just keeps getting worse. #disappointed #NotWorthIt #FAIL",SUPPORT,Loyalty / AAdvantage,ESCALATE,Support issue likely requires case-specific or human handling.
+136,317753,3,"1. @191835 We've been waiting to take you to the beautiful Hawaii! Have a #fAAbulous trip.
+2. @AmericanAir Your tweets make me so happy! #happylittleAussie
+3. The 425 from PHL then 119 to OGG - thx @AmericanAir great day to fly to HI #happylittleAussie",NON_SUPPORT,NON_SUPPORT,AUTO_HANDLE,"Social, praise, casual interaction, or no concrete support request."
+137,310636,2,"1. @190179 We're happy to take a look for you, Justin. Please meet us in DM with the reference number.
+2. @AmericanAir I submitted a concern via your customer service link on your website 10 days ago and haven’t had any type of response.",SUPPORT,Other / General Support,ESCALATE,Support issue likely requires case-specific or human handling.
+138,77955,5,"1. @133387 We never want you to have to do that but we're here to help. What's going on?
+2. @AmericanAir Once we're at the desk checking the bags and then end up being charged $50 when they announced it was complimentary for us not being able to use the overhead bin.
+3. @133387 Please follow and DM your record locator. We'd like to look into this more.
+4. @AmericanAir We weren't notified of the change with bags until it was time to board. They informed we couldn't use the overhead bens and that checking it in would be complimentary
+5. As soon as we land I'm filing multiple complaints on @AmericanAir will never fly with them again",SUPPORT,Baggage,ESCALATE,Support issue likely requires case-specific or human handling.
+139,290019,2,"1. @185084 Thanks for the kudos and love for our #AATeam, Amy. We're happy to hear they took excellent care of everyone!
+2. Kudos @AmericanAir @18310 for cheerfully accommodating passengers who missed flights due to extraordinary TSA lines. Well done!",NON_SUPPORT,NON_SUPPORT,AUTO_HANDLE,"Social, praise, casual interaction, or no concrete support request."
+140,244422,3,"1. @174056 We can take a look at it. Meet us in DMs with your ticket number. It should begin with 001.
+2. @AmericanAir I booked via @12697 so I don’t have the ticket number. However the charge says American Airlines since the flight was yours
+3. I would like to get my refund from @AmericanAir but they say it’s not theirs. Even though the charge clearly says American Airlines 🙄",SUPPORT,Refund & Compensation,ESCALATE,Support issue likely requires case-specific or human handling.
+141,173758,13,"1. @156686 Jamie, we'd like to take another look at your recent email to our Customer Relations team. Please provide your reference number.
+2. @AmericanAir I spoke in person with reps at airport and a rep on the phone who helped with the refund. All I have is ticket numbers
+3. @AmericanAir 0012155586644 Murphy 
+0012155586645 Myers
+4. @156686 We see that you received a partial refund for the tickets you purchased. Please reply to email you received from our team and let them know.
+5. @AmericanAir I did and that was completely unacceptable. After the experience my husband and I had to refund 44.00 a piece didn’t even cover the car we rented let alone gas and tolls plus the crazy amount of inconvenience. Also I never received an email only tweets.
+6. @156686 We're sorry for the frustration this caused. Please check your spam/junk folders. Let us know if you find it there.
+7. @AmericanAir What email address?
+8. @156686 The email would have been sent to the email address you entered when requesting your refund.
+9. @AmericanAir I received nothing
+10. @156686 We can reach out to our refunds team to see if an email can be sent back to you, what's a good email address?
+11. @AmericanAir I just found it. How is this helpful?
+12. @AmericanAir What am I supposed to do? Is an 11 billion dollar company simply going to roll over its customers when they do them wrong? If so you won’t be worth so much for long
+13. @AmericanAir @156686
+ https://t.co/5Ztc9YfNJI",SUPPORT,Refund & Compensation,ESCALATE,Support issue likely requires case-specific or human handling.
+142,303243,9,"1. @169312 We've replied to your DM. Please take a peek when you get a second.
+2. @AmericanAir @169312 Lost luggage? 😂lol we can't send it on another flight 
+-AA
+3. @AmericanAir Y’all reply faster when it’s public vs DM... 🤔
+4. @169312 We see your Dms and will be responding shortly.
+5. @AmericanAir I told the gate agent at ORD what the situation was, she said (I shit you not) “good luck” with purses lips. Are you serious?
+6. @169312 Our sincere apologies for any rudeness. Please continue to work with our airport team for any possible exceptions on your bag.
+7. @AmericanAir Baggage claim was actually the friendliest and most helpful staff I’ve ever worked with in an airport. Gate agent was beyond rude.
+8. @169312 @AmericanAir That's typical for AA gate reps.
+9. Only 20 minutes late for this one, @americanair! At least I get to land with everything I brou—",SUPPORT,Baggage,ESCALATE,Support issue likely requires case-specific or human handling.
+143,514255,6,"1. @238405 Please let a gate agent know. They'll gladly take a look to see if seats have opened and if a change can be made.
+2. @AmericanAir On a sold out long haul flight OGG to DFW... There are no openings. I can try and will let you know how it goes, but I am not holding my breath.
+3. @238405 Please send a DM our way with the record locator code, and we'll try to help from here.
+4. @AmericanAir Seat is pretty good in the middle for MCE on the new 777-200!!! However, flight from OGG to DFW is leaving 1.5 hours late and more then likely will miss AA1302 to final destination.
+5. @238405 We're so sorry for the delay. Please DM your record locator and we'll take a peek.
+6. Buy an aisle seat on @AmericanAir in July for a flight in December. Get boarding pass for middle seat...  ""Thank you"" for the 7+ hour flight in the middle seat...",SUPPORT,Seats & Upgrades,ESCALATE,Support issue likely requires case-specific or human handling.
+144,408952,2,"1. @212499 We can help with rebooking so please DM your record locator and we’ll get you home soon.
+2. .@AmericanAir you need more help @122122 in the rebooking line, I'm ready to be home. https://t.co/2Gqt3uvT22",SUPPORT,Booking & Payment,ESCALATE,Support issue likely requires case-specific or human handling.
+145,254744,4,"1. @176551 What's the flight number? We'll check on the status.
+2. @AmericanAir Putting aside that little delay, I love to fly with @AmericanAir 😜
+3. @176551 We're glad to hear you still love us, Ricardo. We'd never want to do anything to lose your affections!
+4. What is going on @AmericanAir ?? One hour waiting for take off Dallas-Denver?? https://t.co/iz8X3yQfcV",SUPPORT,Flight Disruption,AUTO_HANDLE,Specific support issue that can reasonably be handled with standard information.
+146,181678,2,"1. @158683 We're sorry for the delay. We do our best to keep our departures on time.
+2. @AmericanAir DM me I want a refund.  Unacceptable delay in boarding (1/2 hour).  Flt attendant delay?  Really?",SUPPORT,Refund & Compensation,ESCALATE,Support issue likely requires case-specific or human handling.
+147,352462,2,"1. @199812 Thanks for booking your trip with us. We'd love to go over your bag allowance. Please DM your record locator.
+2. @AmericanAir 
+hello I have a flight to Paris with a stopover in the USA. do I have a checked baggage included in my flight (economy) ? Thx",SUPPORT,Baggage,AUTO_HANDLE,Specific support issue that can reasonably be handled with standard information.
+148,102317,4,"1. @138452 Sounds like you found the #silverlinning!
+2. @AmericanAir i don’t know what “linning” is, but sure!
+3. @138452 Oh no, Brooke. You caught us. Now you know we're human, #NoBotsHere. #silverlining!
+4. In a bizarre twist, I’d like to thank @AmericanAir for delaying my flight several hours, affording me ample time to sip this blood orange mimosa which was more necessary than I realized.",NON_SUPPORT,NON_SUPPORT,AUTO_HANDLE,"Social, praise, casual interaction, or no concrete support request."
+149,283304,5,"1. @183493 We'd love to pass along your compliment. Where did they assist you? DM your record locator and more details.
+2. @AmericanAir 10-5-17
+3. @183493 Thanks! We'll pass this along and hope that you have an awesome day.
+4. @AmericanAir NYHIRK Buffalo, NY
+5. @AmericanAir Best Service by Colleen Walker, Denise Miller, Nadia Ryan, Noreen Isbrandt. Left my keys in rental - they went and got them!",NON_SUPPORT,NON_SUPPORT,AUTO_HANDLE,"Social, praise, casual interaction, or no concrete support request."
+150,399565,3,"1. @210460 We're in the midst of renewing our fleet and know you'll love what's coming.
+2. @AmericanAir Look forward to it 👍🏻
+3. .@116602 thanks for creating the download feature, I can watch #OZARK in my 3 hours flight, as #AmericanAirlines does not have tv's.. 😄",NON_SUPPORT,NON_SUPPORT,AUTO_HANDLE,"Social, praise, casual interaction, or no concrete support request."
+151,302741,7,"1. @188247 Basic Economy is just another type of fare to purchase. You're still able to buy regular Main Cabin tickets.
+2. @AmericanAir 2/2 bring bags? All you did was slap the word basic on the ticket to find a way to charge more fees
+3. @188247 We still have $300 fares that aren't Basic Economy. There are just limited per flight. If you need assistance, please give our team a call.
+4. @AmericanAir Also! Why should two people pay the same price but get different services?
+5. @AmericanAir 1/2 That sounds all well in good but a flight PHL-SAV Economy was about $300 6 months ago and now basic economy is still $300 AND now I cant
+6. @AmericanAir great more options with more hidden fees that hurt customers did you get your business plan from the proposed republican health care bills?
+7. @AmericanAir your ""basic economy"" roll out is bullshit ... thanks for making domestic travel even worse",SUPPORT,Booking & Payment,AUTO_HANDLE,Specific support issue that can reasonably be handled with standard information.
+152,303689,13,"1. @188507 We're not able to assist with new bookings here. Please give our EP desk a call.
+2. @AmericanAir Your EP desk already charged me $1100.  Thanks!
+3. @188507 Give us a moment to take a look and we'll be with you via DM.
+4. @AmericanAir Thanks @AmericanAir for making things right!
+5. @188507 We're happy to help!
+6. @AmericanAir As your EP, I have a tight schedule.  @AmericanAir should have me on the flights.  Instead I paid $1100 for my trip.  Sure pays to be EP.
+7. @188507 We do have relief $99 fares plus tax one-way. The first few days are already sold out. You're welcome to call Reservations if you need help.
+8. @AmericanAir @5051 @AmericanAir should donate the full fare you are collecting from passengers flying in and out of SXM this coming week to @5051. #AAFail
+9. We're matching donations for hurricane relief as our #AATeam works w/@5051's Change for Good program. Donate: https://t.co/LGJWB8vBFI https://t.co/OpozmqmOl4
+10. @212399 Please DM us your record locator so we can take a closer look.
+11. @AmericanAir @5051 Funny. Matching donations for hurricane relief, but won't let me cancel my flight to Cuba despite attacks on US citizens. @AmericanAir sure knows how to pick what they support
+12. @193561 We've been working with our customers who have been affected by the recent storms. Please let us know how we can help you?
+13. @AmericanAir @5051 AA has the rudest and worst customer service. I will NEVER fly you again! Every other airline was willing to help during IRMA, not AA!!",SUPPORT,Booking & Payment,ESCALATE,Support issue likely requires case-specific or human handling.
+153,352954,4,"1. @199554 We expect all of our employees to be professional and appreciate your feedback.
+2. @AmericanAir @199554 No es verdad.
+#AAteam = el peor
+3. @199555 @AmericanAir Y deberías limpiar tus maletas de préstamo, no sé si mis manos se pegaron con etiqueta o caramelo. Ascooooo.
+4. Muy groserita Bety Lara en tu oficina en @199555, @AmericanAir.",SUPPORT,Other / General Support,ESCALATE,Support issue likely requires case-specific or human handling.
+154,39020,2,"1. @124527 We strive to provide a seamless travel experience and apologize if that wasn't your experience. Please DM your record locator.
+2. @AmericanAir cancelled my flight twice, delayed me by a day, lost my bag, only offered me meal passes. Thought you could do better American.",SUPPORT,Flight Disruption,ESCALATE,Support issue likely requires case-specific or human handling.
+155,247201,2,"1. @164683 Checkout our Main Cabin Extra seats with up to 6 inches of additional leg room! https://t.co/N9kHMrdPIB
+2. Congrats @AmericanAir!  You now have the least amount of space of all major airlines.  Clear you don't like customers https://t.co/xxLagAq8qX",SUPPORT,Seats & Upgrades,AUTO_HANDLE,Specific support issue that can reasonably be handled with standard information.
+156,302380,2,"1. @188154 We look forward to welcoming you on board!
+2. I’ll be on one of those later this month. Thanks @AmericanAir and @188155 #nomoreprop https://t.co/HSIgUtSC8f",NON_SUPPORT,NON_SUPPORT,AUTO_HANDLE,"Social, praise, casual interaction, or no concrete support request."
+157,229280,13,"1. @170678 Was your flight canceled, Monica? Please follow and DM your record locator so we can review itinerary.
+2. @AmericanAir No, please review DM history.  The details regarding the unfortunate incident are in there.
+3. @170678 If there's a new reservation you  need assistance with, please let us know via DM.
+4. @AmericanAir Existing reservation.  Please ask a manager to contact me.  The details have already been sent.
+5. @170678 We're a virtual team, Monica. We're unable to call you. You can meet us in DM or contact Reservations at 800-433-7300.
+6. @AmericanAir Information regarding the incident was sent Monday via DM along with photos
+7. @AmericanAir @AmericanAir please share steps to receive a refund. The link does not work.  Also emails regarding the incident are
+8. @170678 No other action is needed, Monica. We use customer feedback to help us become better and if necessary make overall changes to our policies.
+9. @AmericanAir Great, glad to hear.  Please share next steps.
+10. @170678 Your comments and feedback is always taken seriously, Monica. We have your info and forwarded it for internal review.
+11. @AmericanAir I'm not sure the concern is being taken seriously by the individual I'm corresponding with via DM.
+12. @170678 We're a virtual team but we see your DM. Give us a moment to take a look.
+13. @AmericanAir hi! Can someone please give me a call?  Thank you!",SUPPORT,Refund & Compensation,ESCALATE,Support issue likely requires case-specific or human handling.
+158,415238,3,"1. @214012 Please give us more details via DMs and include your AAdvantage number.
+2. @AmericanAir You're letting my miles expire because of two weeks. I called to get an extension and your person would not allow it and hung up on me.
+3. Hey @AmericanAir why did you email me to do something within days or my miles expire? I did!",SUPPORT,Loyalty / AAdvantage,ESCALATE,Support issue likely requires case-specific or human handling.
+159,492598,2,"1. @232426 Our specialists in AAdvantage Customer Service will take care of this. You can reach them at 800-882-8880 to check the status.
+2. @AmericanAir i sent an email with a copy of my tickets to correct my miles on 10/25 and i still waiting for an answer ...",SUPPORT,Loyalty / AAdvantage,ESCALATE,Support issue likely requires case-specific or human handling.
+160,383408,2,"1. @206835 We're sorry you're having problems booking online, please share more details with us via DM.
+2. @AmericanAir Better idea! When people can't complete booking during known outage, send them apology/miles. Or not because fortress hub! Yay!",SUPPORT,Booking & Payment,ESCALATE,Support issue likely requires case-specific or human handling.
+161,41480,6,"1. @125116 You'd have to request the upgrade ahead of time so our agents can process the request for the upgrade.
+2. @AmericanAir Oh and we sat in the plane for over an hour, took off 45 min late without 1 announcement
+3. @125116 We're very sorry for the delayed departure.
+4. @AmericanAir Another great AA experience
+5. @AmericanAir I did do that they told me it was full. Just the way it goes I guess
+6. @AmericanAir flight 1530 from CLT to BOS an empty 1st class seat and they wouldn’t upgrade a platinum member like me! Rather the seat stays empty #curious",SUPPORT,Seats & Upgrades,ESCALATE,Support issue likely requires case-specific or human handling.
+162,400035,4,"1. @210588 We're sorry to hear that your father wasn't happy with his trip. What happened?
+2. @AmericanAir In 150 or less on Twitter. Forget it. Just want to know how to get my seat upgrade money back.
+3. @210588 Please DM his record locator or have him share his experience via our website.
+4. @AlaskaAir used miles to help my Dad @AmericanAir Treated my 82 yr old Dad horribly. Thk goodness for you guys! #endpartnership",SUPPORT,Refund & Compensation,ESCALATE,Support issue likely requires case-specific or human handling.
+163,303354,7,"1. @188413 Can you double check your flight number, or DM your record locator?
+2. @AmericanAir See DMs
+3. @AmericanAir Flight pushed back again.  Now 4 hours after original take off planned. @AmericanAir customer service continues to be terrible.
+4. @188413 Stephen, we don't see any other flight options to get you into RDU sooner. Once you arrive at the airport please work with our airport team.
+5. @AmericanAir 4355; happens every trip.
+6. @188413 We're very sorry or the extra travel time. What's your flight number, we'll check on an update?
+7. Another day, another @AmericanAir flight out of Pittsburgh delayed. This is now 4 of the last 4.",SUPPORT,Flight Disruption,ESCALATE,Support issue likely requires case-specific or human handling.
+164,115488,12,"1. @141673 We do offer Main Cabin Extra seats which come with additional legroom, take a look: https://t.co/N9kHMrvr7b
+2. @AmericanAir U already made me pay extra to get cramped seats I had - $250 over the price of tickets to select seats. U now suggest paying more to be comfortable?
+3. @141673 It's just something we offered and so we wanted to share it with you, our apologies if we've upset you.
+4. @AmericanAir Simply choosing seats and checking one bag a piece adds $350 to round trip ticket price. Who could possibly be upset by your suggestion to pay even more? #lowairfarefiction
+5. @AmericanAir Just keeps getting better with @AmericanAir. We pay $25 a piece to check our bags to destination at check in. Passengers at gate get same svc for free because flight is full.
+6. @141673 Bags that fit within the carry on size limits may be asked to be checked at the gate, anything larger will need to be checked before.
+7. @AmericanAir You’re missing the point - again. They didn’t check their bags to avoid your fees. Once they get to the gate they’re offered the same service for free that others of us had to pay for. How is that fair?
+8. @141673 We don't want you to get the impression that they're getting their bags for free at the gate while charging $25 at the ticket counter.
+9. @AmericanAir There is a difference between “gate checked” and “checked to destination.” She offered “checked to destination.”
+10. @AmericanAir Contrary to what you say, that is exactly what the gate agent offered all of them “because the flight was full and all your bags won’t fit.” So yes - they get for free what the rest of us paid for.
+11. @141673 We're sorry for any confusion. If there's limited space on board, we'll gate check our customer's carry-on bag, which they get for free.
+12. @AmericanAir has their economy seats so close to one another it is just plain uncomfortable to fly on their airplanes.",SUPPORT,Baggage,ESCALATE,Support issue likely requires case-specific or human handling.
+165,408961,2,"1. @212501 We'd love to recognize our David! Please DM your record locator and where he helped you. #AATeam
+2. My @AmericanAir flight was just delayed, but David Johnson was EXTREMELY helpful. #patience",NON_SUPPORT,NON_SUPPORT,AUTO_HANDLE,"Social, praise, casual interaction, or no concrete support request."
+166,423072,2,"1. @215737 We have several other fare options, Krista.
+2. @AmericanAir basic economy is stupid. #ThereISaidIt",NON_SUPPORT,NON_SUPPORT,AUTO_HANDLE,"Social, praise, casual interaction, or no concrete support request."
+167,173744,4,"1. @156682 You should be off any second now. Feel free to share your flight details and we'll get an update.
+2. @156683 @AmericanAir Hunger.
+3. @156682 @AmericanAir No time for food now. #thanks
+4. My plane landed 40 minutes ago and I’m still waiting to get off 🙃🙃🙃@AmericanAir",SUPPORT,Flight Disruption,AUTO_HANDLE,Specific support issue that can reasonably be handled with standard information.
+168,298119,2,"1. @187020 We're happy to help you here however we can, what's going on?
+2. Spending 40 minutes on the phone being bounced around from department to department is exactly how I wanted to spend my Friday, @AmericanAir",SUPPORT,Other / General Support,ESCALATE,Support issue likely requires case-specific or human handling.
+169,110328,8,"1. @140504 Our team can approve temporary expenses until you get your items back. Please contact them and go over all your options.
+2. @AmericanAir Who do I contact?!
+3. @140504 Our Baggage team is available via 800-535-5225. https://t.co/zSdeH87Yqc
+4. @AmericanAir I've spoken with them they haven't been help
+5. @AmericanAir I have filed! I received a call but no one was on the other line! When I called back I had to leave a voicemail!! I demand reimbursement for the clothes and shoes I'll have to buy today!!
+6. @140504 Please file a claim with our Baggage team and we'll work hard to reunite you with them ASAP!
+7. @AmericanAir I'm in Queens! Why is my luggage in New Jersey?!
+8. @AmericanAir I'm still waiting on my luggage!!!",SUPPORT,Baggage,ESCALATE,Support issue likely requires case-specific or human handling.
+170,171285,2,"1. @155976 We're glad to hear you had a great time, Elizabeth. It's what we strive for!
+2. I had an excellent experience on @AmericanAir this week on my flights from OKC to MEM and return. Seems some serious improvements have been made in the past year. Thank you!",NON_SUPPORT,NON_SUPPORT,AUTO_HANDLE,"Social, praise, casual interaction, or no concrete support request."
+171,501087,2,"1. @234700 We do our best to not leave anyone behind. We're happy to hear our #AATeam took excellent care of them!
+2. @AmericanAir  just brought the jet bridge back and opened the door in lieu of leaving an elderly couple @124202 - good to see people taking care of people",NON_SUPPORT,NON_SUPPORT,AUTO_HANDLE,"Social, praise, casual interaction, or no concrete support request."
+172,432445,3,"1. @217855 Please speak with an airport baggage agent and they'll definitely provide assistance to get your bag returned as soon as possible.
+2. @AmericanAir Best part of the conversation is it had a priority tag on it
+3. @AmericanAir  not sure how we lost a bag from CLT to DCA but telling a customer to just stand and hope it appears does not seem to work",SUPPORT,Baggage,ESCALATE,Support issue likely requires case-specific or human handling.
+173,367065,2,"1. @202948 We know staying powered up in important and we're making frequent updates to our fleet. Keep an eye out for new additions!
+2. @AmericanAir - SFO to DFW, no way to charge phone, not good",SUPPORT,Onboard Services,AUTO_HANDLE,Specific support issue that can reasonably be handled with standard information.
+174,72345,2,"1. @132237 Sorry you're not having a great experience, Eddie.
+2. The silver lining with flying @AmericanAir is it reminds me how much I love and prefer flying @Delta 
+#perspective #wastedmiles",NON_SUPPORT,NON_SUPPORT,AUTO_HANDLE,"Social, praise, casual interaction, or no concrete support request."
+175,233043,6,"1. @171467 We're following you now.
+2. @AmericanAir can you follow me?
+3. @171467 We'll be here.
+4. @AmericanAir ok, will do  that
+5. @171467 We'll be happy to take a look, Sven. Please meet us in DM with your record locator.
+6. @AmericanAir oneworld ruby member but had to pay for 1st checked bag at machine. Is a refund possible for the bag?",SUPPORT,Baggage,ESCALATE,Support issue likely requires case-specific or human handling.
+176,271646,9,"1. @180823 We're happy to take a look. Please DM your record locator.
+2. @AmericanAir I just did! Thank you
+3. @180823 We've answered you in DMs.
+4. @AmericanAir Please get back to me! 🙏🏽
+5. @180823 We see your DMs and we'll be responding shortly.
+6. @AmericanAir Okay thanks I responded
+7. @180823 We've responded to you in DMs.
+8. @AmericanAir Yes but it's not until 10am meaning I will not be in HTX until noon. Do you have any early morning flights left?
+9. @180823 We're so sorry we've disappointed you this evening. Our team does all possible to avoid cancellations. Have you been rebooked?",SUPPORT,Flight Disruption,ESCALATE,Support issue likely requires case-specific or human handling.
+177,324607,4,"1. @193330 You bet!
+2. @AmericanAir Thanks
+3. @193330 The ETA is currently 12:47p and our pilots will do their best to make up time. For status questions, click here: https://t.co/l7FeGMUy12
+4. @AmericanAir not to mention. I'm diamond w/ Delta and curious if you guys status match? I can share the credentials.",SUPPORT,Loyalty / AAdvantage,AUTO_HANDLE,Specific support issue that can reasonably be handled with standard information.
+178,13656,2,"1. @118858 On domestic flights blankets are only offered in First Class. We love traveling families and are sorry for any rudeness.
+2. @AmericanAir My husband with our 1yr baby was refused a blanket cuz it was for first class only on a red eye flight #willneverhavemymoney",SUPPORT,Onboard Services,AUTO_HANDLE,Specific support issue that can reasonably be handled with standard information.
+179,287557,4,"1. @184531 We have your DM and will answer you there, Mike.
+2. @AmericanAir Thanks for that help, AA. Very much appreciated...yet again!😊👍
+3. @184531 No problem! That's what we're here for.
+4. Good morning @AmericanAir my handicapped 72-year old mom is flying today. Been waiting on hold for 30 but flight coming up. Need help!",SUPPORT,Accessibility,ESCALATE,Support issue likely requires case-specific or human handling.
+180,36795,7,"1. @124030 This is a restriction you agree upon when booking Basic Economy. You're welcome to see more info here: https://t.co/MKvFFVWJdz
+2. @AmericanAir 1. There’s no restriction on the Orbitz site about $50. 2. No where on the ticket said you need to check your carry-on bag at the ticket counter as oppose to the gate (which is the way all other airlines do it).
+3. @124030 Restrictions are shared on the right side of the purchase screen before purchase. Please contact Orbitz for more information.
+4. @AmericanAir They are actually not. Even your own agent (Angel Torerro) at the gate couldn’t find it. His response was ‘well if you would’ve booked it through https://t.co/8pwu2ECBlH then you would’ve been prompted’. WTH? As a gold status traveler I’m deeply disappointed.
+5. @124030 We just checked and it's there in bright blue with a hyperlink that says Basic Economy. You can't miss it Sean!
+6. How is @AmericanAir still in business given their rude staff and customer service. #shameful #americanairlinesucks
+7. The staff and the customer service at #AmericanAirlines suck. Charged me $50 for a bag check even though there’s no mention of it.",SUPPORT,Baggage,ESCALATE,Support issue likely requires case-specific or human handling.
+181,543280,2,"1. @246165 We never want you feeling this way, how can we help?
+2. Hello @AmericanAir why is your customer service so poor ? Like agents always acting as if they are forced to pick up the call how much are they paid please fix this. Thank you. 😓",SUPPORT,Other / General Support,ESCALATE,Support issue likely requires case-specific or human handling.
+182,332151,2,"1. @195083 What an #AAmericanView! We're thrilled to have you on board, and hope you have a great afternoon.
+2. Back to Miami today on @AmericanAir . View landing at JFK! https://t.co/QqXK9y7uEd",NON_SUPPORT,NON_SUPPORT,AUTO_HANDLE,"Social, praise, casual interaction, or no concrete support request."
+183,74947,4,"1. @132774 They're quite #fAAbulous!
+2. @AmericanAir @AmericanAir Going back to AAdvantage guys. Aiming to regain my ExP in 2018! See you soon!
+3. @132774 We're excited! See you on board soon.
+4. A American renovou diversos lounges nos Estados Unidos. Apresentamos os novos lounges de Miami, Chicago e Los Angeles. Dá uma olhada como eles ficaram bonitos! @AmericanAir  https://t.co/XPTolbJp0P https://t.co/XCEC1dWchW",NON_SUPPORT,NON_SUPPORT,AUTO_HANDLE,"Social, praise, casual interaction, or no concrete support request."
+184,459215,5,"1. @224069 You'll accrue 50% of EQMs and EQSs as well as EQDs, based on the dollar value of the ticket.
+2. @AmericanAir How can I get an extend hold?
+3. @224069 Extended holds are offered on our website only when you make the reservation.
+4. @AmericanAir  https://t.co/OdEB4CwOII
+5. @AmericanAir with basic economy fares, do you only get EQS on only AA operated flights?",SUPPORT,Loyalty / AAdvantage,AUTO_HANDLE,Specific support issue that can reasonably be handled with standard information.
+185,360335,5,"1. @201339 The info we currently have is still for 9p, you can keep track of any changes online or by following up with us here.
+2. @AmericanAir Yes, but how am I supposed to believe that when your own app says the plane that’ll fly AA185 lands 72min after the expected 9pm departure?
+3. @201339 Our agents are looking into this. We may use another inbound aircraft. Since it's too early for departure, feel free to check back with us.
+4. @AmericanAir Unfortunately your operations weren’t smAArt enough to use another inbound craft, so I had a nice &gt;3hr delAAy, which I’m super hAAppy about.
+5. @AmericanAir Can you give a realistic departure time for AA185? Even your app says the incoming flight arrives &gt;1hr after 185 ETD.",SUPPORT,Flight Disruption,AUTO_HANDLE,Specific support issue that can reasonably be handled with standard information.
+186,347191,4,"1. @198685 You're well loved and we're honored to have you as loyal elite customer. If you need anything we're here to help!
+2. @AmericanAir Thank you. I know how you folks on social media feel. I rarely feel it on the plane. Thanks for your kindness.
+3. @AmericanAir @198685 Unless the help you need is anything but the most basic of corporate responses to actual concerns about our business model and culture.
+4. I received more appreciation on one flight for my business from @131657 than I have for many flights from @AmericanAir —and I’m an EP.",SUPPORT,Other / General Support,ESCALATE,Support issue likely requires case-specific or human handling.
+187,40900,4,"1. @124958 We know delays aren't fun and we do our best to avoid them if we can. What's your flight number? We'll get an update.
+2. @AmericanAir 4868
+3. @124958 We're showing it was delayed due to air traffic congestion, but that you're in the air now. Have a great flight!
+4. Been sitting on this plane for over an hour. Not a great look, @AmericanAir.. 😐☹️👎",SUPPORT,Flight Disruption,AUTO_HANDLE,Specific support issue that can reasonably be handled with standard information.
+188,301662,4,"1. @187969 We have some of the best crew in the business! Thanks for the shout-out!
+2. Huge respect for @AmericanAir Flight Attendent handling entitled passenger who was ignoring her during her briefing of folks in the emergency exit aisles. She's my shero.
+3. @187969 Any way you spell it, she sounds like a #shero to us too!
+4. @AmericanAir Should have been Attendant - typo or not, she's still my shero",NON_SUPPORT,NON_SUPPORT,AUTO_HANDLE,"Social, praise, casual interaction, or no concrete support request."
+189,429637,3,"1. @154289 Good morning. Have a lovely hop over the lake to Chicago!
+2. @AmericanAir Thanks it’s fun looking out over Lake Michigan!
+3. Quick flight on @AmericanAir Detroit Chicago #goingforgreat #americanairlines #travel… https://t.co/lqzTUkMRn6 https://t.co/DUYNwt8N4N",NON_SUPPORT,NON_SUPPORT,AUTO_HANDLE,"Social, praise, casual interaction, or no concrete support request."
+190,501117,2,"1. @234708 What has you upset with us today? We'd like to help if we can.
+2. Lack of competition has consequences. @AmericanAir sucks because it can &amp; keep prospering. #unhappycustomer",NON_SUPPORT,NON_SUPPORT,AUTO_HANDLE,"Social, praise, casual interaction, or no concrete support request."
+191,157192,5,"1. @152101 This concerns us deeply. Did he speak with a baggage agent at the airport to open a claim?
+2. @AmericanAir He arrived international and brought his own bag through customs in Chicago. Bag had not been tampered with. Then he hands it over to @AmericanAir and you guys pulled it off the plane to load military bags, left his overnight in Chicago, and somebody opened the bag. Disgraceful.
+3. @152101 Please have your friend reach out to our Baggage Services. He can contact them at 800-535-5225.
+4. @AmericanAir The bags were removes feom the flight. The luggage did not arrive until yesterday. It was delivered to the house. There was no baggage agent tonopen a claim. Only after the bag was delivered did he discover his late wife's items were missing. Somebody went through the bag. https://t.co/UlHaMP1dH3
+5. @AmericanAir seriously upset that you took an elderly man's luggage off flight AA3183 NOVEMBER 21st ORD&gt;GRB and left it overnight. Someone cut open the luggage and stole his dead wife's wedding band.  Disgusting treatment and such disrespect.",SUPPORT,Baggage,ESCALATE,Support issue likely requires case-specific or human handling.
+192,499427,9,"1. @234271 If you're checking a bag, any device with lithium batteries will need to be removed. We'll still accept them as carry on bags though.
+2. @AmericanAir thanks!
+3. @139617 @AmericanAir @6954 If I CAN be removed easily (read @214505) do you HAVE to take it out? Even as carry-on?
+4. @234271 @AmericanAir @6954 Shoot. The AA release was slightly unclear. If the battery cannot be removed, it will not be allowed on the plane even as carry-on bag!
+5. @234271 @AmericanAir @6954 Right right. But those are examples of the features of a smart bag. I'm guessing that @6954 qualifies as such, but the ban only applies to checked bags.
+6. @139617 @AmericanAir @6954 “Bluetooth” &amp; “GPS”
+7. @234271 @AmericanAir @6954 Smart luggage can still be carried on. I'm working off little sleep. Can you point me to where that's unclear? 😬
+8. @139617 @AmericanAir So if I’m reading this right, @6954 in luggage tag is now a carry-on no go?
+9. #BreakingNews: @AmericanAir bans ""smart bags"" / ""smart luggage"" from checked bags: https://t.co/6ZZQobuprz",SUPPORT,Baggage,AUTO_HANDLE,Specific support issue that can reasonably be handled with standard information.
+193,254218,2,"1. @176422 That's quite a nice view! We love pics of our #prettybirds.
+2. @AmericanAir my view https://t.co/tfHIFzWl2u",NON_SUPPORT,NON_SUPPORT,AUTO_HANDLE,"Social, praise, casual interaction, or no concrete support request."
+194,281233,7,"1. @183012 We have a keen eye on the approaching storm and have added options for changes. See details at: https://t.co/kNkPUilgez
+2. @AmericanAir Even our Airbnb cancelled with full refund, we now have no place to stay and can’t change our travel dates.
+3. @183012 Please send your record locator via DM and we'll be happy to take a look!
+4. @AmericanAir Sent
+5. @183012 We've responded to your DM!
+6. @AmericanAir The options only work for those who can change their travel dates, tried to change destination as travel dates are strict and no help.
+7. @AmericanAir when are you going to cancel flights to MSY knowing that it is in line for a direct hit and is under a state of emergency?",SUPPORT,Flight Disruption,ESCALATE,Support issue likely requires case-specific or human handling.
+195,181689,2,"1. @158688 We only want to be the best for you, Gina. How can we help? Meet us in DM with more info.
+2. How DO you do it, @AmericanAir? I pay for a 1st class seat and you manage to botch it. Again. Livid. How did you get so bad?",SUPPORT,Seats & Upgrades,ESCALATE,Support issue likely requires case-specific or human handling.
+196,225061,4,"1. @169765 We're sorry for the wait, KC. We always want to get you on your way on time.
+2. @AmericanAir Not really.... maybe made up a little bit but nobody was manning the gate sat On the tarmac waiting
+3. @169765 Our sincere apologies for the extra time. We're glad to see you're now in the air! Our captain is going to make up some time in the air.
+4. Dear @AmericanAir  why such a delay on take off of AA452.... @11242 is going to miss their first period against @4395 hockey",SUPPORT,Flight Disruption,AUTO_HANDLE,Specific support issue that can reasonably be handled with standard information.
+197,338703,2,"1. @196659 We're sorry this was your experience. Please let us know if we can help in someway.
+2. @AmericanAir is the worst!!! If you have a chance DONT book with them. Terrible experience all around.",NON_SUPPORT,NON_SUPPORT,AUTO_HANDLE,"Social, praise, casual interaction, or no concrete support request."
+198,401799,3,"1. @211025 We offer different seating options for our customers to choose from. Please check out the info here: https://t.co/N9kHMrvr7b
+2. @AmericanAir No thanks. Half my flights you couldnt assign us till we got to the gate. Bye felicia
+3. @AmericanAir you have the worst planes and highest prices in the us. Stop putting seats in back against a wall. Never flying you again!",SUPPORT,Seats & Upgrades,ESCALATE,Support issue likely requires case-specific or human handling.
+199,403713,6,"1. @211558 Hi, Erin, please give us more details so we can give you a proper response.
+2. @AmericanAir I went to book award travel and there was a $75 fee in order to do so (I had the necessary amount of miles to the travel).
+3. @211558 Just like lower fare require advance purchase, the same goes with award travel. To avoid that fee, we require 21 days advanced notice.
+4. @AmericanAir Okay-that makes more sense. Thank you for the quick reply.
+5. @211558 You're welcome, don't hesitate to tweet us if you need us!
+6. @AmericanAir Why do I have to pay a huge fee to use my award miles?",SUPPORT,Loyalty / AAdvantage,AUTO_HANDLE,Specific support issue that can reasonably be handled with standard information.
+200,296878,3,"1. @185518 We've sent you a DM with details!
+2. @AmericanAir I already messaged you guys my information ☹️
+3. @185518 Please don't be upset, we'll get this fixed for you!",SUPPORT,Other / General Support,ESCALATE,Support issue likely requires case-specific or human handling.
