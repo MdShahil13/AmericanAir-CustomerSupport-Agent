@@ -34,6 +34,8 @@ class AmericanAirRetriever:
                 normalize_embeddings=True
             )
 
+            os.makedirs(os.path.dirname(self.embedding_path), exist_ok=True)
+
             np.save(self.embedding_path, self.embeddings)
 
             print("Embeddings saved.")
