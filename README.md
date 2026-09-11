@@ -1,5 +1,17 @@
 # ✈️ AmericanAir AI Support Agent
 
+## 🚀 Live Demo
+
+Try the deployed application:
+
+👉 **[AmericanAir AI Support Agent](https://americanair-customersupport-agent-bymsk.streamlit.app/)**
+
+The live demo allows you to enter a customer message and see:
+- Predicted intent
+- AUTO_HANDLE / ESCALATE decision
+- Decision reason
+- Generated reply
+- Historical AmericanAir evidence
 An AI-powered customer support agent built for **AmericanAir** using the
 **Customer Support on Twitter** dataset.
 
